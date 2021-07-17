@@ -27,3 +27,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Addendum: Correlates of War Datasets Terms & Conditions
+
+This repo uses datasets from The Correlates of War Project, and so the following data agreement applies to any redistribution or modification of the code that includes use of any Correlates of War datasets. The following text can be found at https://correlatesofwar.org/data-sets
+
+> Terms and Conditions
+By downloading a COW dataset, you agree to the following terms and conditions:
+- Data are not to be used for any commercial activity; users of COW data agree not to sell or use the data as part of any financial profit-making activity.
+- Users agree to cite each of the datasets they use in the manner described on each specific dataset web page.
+- Users agree not to distribute the dataset to any third party without written permission of the COW director and data host.
+- Users agree to ask permission for any dissemination, posting, or other use of the data that is not covered by the above restrictions.
