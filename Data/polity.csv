@@ -1,0 +1,800 @@
+id,name,type,abbr
+2,United States of America,State,USA
+20,Canada,State,CAN
+31,Bahamas,State,BHM
+40,Cuba,State,CUB
+41,Haiti,State,HAI
+42,Dominican Republic,State,DOM
+51,Jamaica,State,JAM
+52,Trinidad and Tobago,State,TRI
+53,Barbados,State,BAR
+54,Dominica,State,DMA
+55,Grenada,State,GRN
+56,St. Lucia,State,SLU
+57,St. Vincent and the Grenadines,State,SVG
+58,Antigua & Barbuda,State,AAB
+60,St. Kitts and Nevis,State,SKN
+70,Mexico,State,MEX
+80,Belize,State,BLZ
+90,Guatemala,State,GUA
+91,Honduras,State,HON
+92,El Salvador,State,SAL
+93,Nicaragua,State,NIC
+94,Costa Rica,State,COS
+95,Panama,State,PAN
+100,Colombia,State,COL
+101,Venezuela,State,VEN
+110,Guyana,State,GUY
+115,Suriname,State,SUR
+130,Ecuador,State,ECU
+135,Peru,State,PER
+140,Brazil,State,BRA
+145,Bolivia,State,BOL
+150,Paraguay,State,PAR
+155,Chile,State,CHL
+160,Argentina,State,ARG
+165,Uruguay,State,URU
+200,United Kingdom,State,UKG
+205,Ireland,State,IRE
+210,Netherlands,State,NTH
+211,Belgium,State,BEL
+212,Luxembourg,State,LUX
+220,France,State,FRN
+221,Monaco,State,MNC
+223,Liechtenstein,State,LIE
+225,Switzerland,State,SWZ
+230,Spain,State,SPN
+232,Andorra,State,AND
+235,Portugal,State,POR
+240,Hanover,State,HAN
+245,Bavaria,State,BAV
+255,Germany,State,GMY
+260,German Federal Republic,State,GFR
+265,German Democratic Republic,State,GDR
+267,Baden,State,BAD
+269,Saxony,State,SAX
+271,Wuerttemburg,State,WRT
+273,Hesse Electoral,State,HSE
+275,Hesse Grand Ducal,State,HSG
+280,Mecklenburg Schwerin,State,MEC
+290,Poland,State,POL
+300,Austria-Hungary,State,AUH
+305,Austria,State,AUS
+310,Hungary,State,HUN
+315,Czechoslovakia,State,CZE
+316,Czech Republic,State,CZR
+317,Slovakia,State,SLO
+325,Italy,State,ITA
+327,Papal States,State,PAP
+329,Two Sicilies,State,SIC
+331,San Marino,State,SNM
+332,Modena,State,MOD
+335,Parma,State,PMA
+337,Tuscany,State,TUS
+338,Malta,State,MLT
+339,Albania,State,ALB
+341,Montenegro,State,MNG
+343,Macedonia,State,MAC
+344,Croatia,State,CRO
+345,Yugoslavia,State,YUG
+346,Bosnia and Herzegovina,State,BOS
+347,Kosovo,State,KOS
+349,Slovenia,State,SLV
+350,Greece,State,GRC
+352,Cyprus,State,CYP
+355,Bulgaria,State,BUL
+359,Moldova,State,MLD
+360,Romania,State,ROM
+365,Russia,State,RUS
+366,Estonia,State,EST
+367,Latvia,State,LAT
+368,Lithuania,State,LIT
+369,Ukraine,State,UKR
+370,Belarus,State,BLR
+371,Armenia,State,ARM
+372,Georgia,State,GRG
+373,Azerbaijan,State,AZE
+375,Finland,State,FIN
+380,Sweden,State,SWD
+385,Norway,State,NOR
+390,Denmark,State,DEN
+395,Iceland,State,ICE
+402,Cape Verde,State,CAP
+403,Sao Tome and Principe,State,STP
+404,Guinea-Bissau,State,GNB
+411,Equatorial Guinea,State,EQG
+420,Gambia,State,GAM
+432,Mali,State,MLI
+433,Senegal,State,SEN
+434,Benin,State,BEN
+435,Mauritania,State,MAA
+436,Niger,State,NIR
+437,Ivory Coast,State,CDI
+438,Guinea,State,GUI
+439,Burkina Faso,State,BFO
+450,Liberia,State,LBR
+451,Sierra Leone,State,SIE
+452,Ghana,State,GHA
+461,Togo,State,TOG
+471,Cameroon,State,CAO
+475,Nigeria,State,NIG
+481,Gabon,State,GAB
+482,Central African Republic,State,CEN
+483,Chad,State,CHA
+484,Congo,State,CON
+490,Democratic Republic of the Congo,State,DRC
+500,Uganda,State,UGA
+501,Kenya,State,KEN
+510,Tanzania,State,TAZ
+511,Zanzibar,State,ZAN
+516,Burundi,State,BUI
+517,Rwanda,State,RWA
+520,Somalia,State,SOM
+522,Djibouti,State,DJI
+530,Ethiopia,State,ETH
+531,Eritrea,State,ERI
+540,Angola,State,ANG
+541,Mozambique,State,MZM
+551,Zambia,State,ZAM
+552,Zimbabwe,State,ZIM
+553,Malawi,State,MAW
+560,South Africa,State,SAF
+565,Namibia,State,NAM
+570,Lesotho,State,LES
+571,Botswana,State,BOT
+572,Swaziland,State,SWA
+580,Madagascar,State,MAG
+581,Comoros,State,COM
+590,Mauritius,State,MAS
+591,Seychelles,State,SEY
+600,Morocco,State,MOR
+615,Algeria,State,ALG
+616,Tunisia,State,TUN
+620,Libya,State,LIB
+625,Sudan,State,SUD
+626,South Sudan,State,SSD
+630,Iran,State,IRN
+640,Turkey,State,TUR
+645,Iraq,State,IRQ
+651,Egypt,State,EGY
+652,Syria,State,SYR
+660,Lebanon,State,LEB
+663,Jordan,State,JOR
+666,Israel,State,ISR
+670,Saudi Arabia,State,SAU
+678,Yemen Arab Republic,State,YAR
+679,Yemen,State,YEM
+680,Yemen People's Republic,State,YPR
+690,Kuwait,State,KUW
+692,Bahrain,State,BAH
+694,Qatar,State,QAT
+696,United Arab Emirates,State,UAE
+698,Oman,State,OMA
+700,Afghanistan,State,AFG
+701,Turkmenistan,State,TKM
+702,Tajikistan,State,TAJ
+703,Kyrgyzstan,State,KYR
+704,Uzbekistan,State,UZB
+705,Kazakhstan,State,KZK
+710,China,State,CHN
+712,Mongolia,State,MON
+713,Taiwan,State,TAW
+730,Korea,State,KOR
+731,North Korea,State,PRK
+732,South Korea,State,ROK
+740,Japan,State,JPN
+750,India,State,IND
+760,Bhutan,State,BHU
+770,Pakistan,State,PAK
+771,Bangladesh,State,BNG
+775,Myanmar,State,MYA
+780,Sri Lanka,State,SRI
+781,Maldives,State,MAD
+790,Nepal,State,NEP
+800,Thailand,State,THI
+811,Cambodia,State,CAM
+812,Laos,State,LAO
+816,Vietnam,State,DRV
+817,Republic of Vietnam,State,RVN
+820,Malaysia,State,MAL
+830,Singapore,State,SIN
+835,Brunei,State,BRU
+840,Philippines,State,PHI
+850,Indonesia,State,INS
+860,East Timor,State,ETM
+900,Australia,State,AUL
+910,Papua New Guinea,State,PNG
+920,New Zealand,State,NEW
+935,Vanuatu,State,VAN
+940,Solomon Islands,State,SOL
+946,Kiribati,State,KIR
+947,Tuvalu,State,TUV
+950,Fiji,State,FIJ
+955,Tonga,State,TON
+970,Nauru,State,NAU
+983,Marshall Islands,State,MSI
+986,Palau,State,PAL
+987,Federated States of Micronesia,State,FSM
+990,Samoa,State,WSM
+0,League of Nations,International Organization,LN
+1,United Nations,International Organization,UN
+10000,Te Rauparaha's Ngati Toa,Non-state actor,
+10001,Shaka Zulu,Non-state actor,
+10002,Burma,Non-state actor,
+10003,Buenos Aires,Non-state actor,
+10004,Hongi Hika's Nga Phuhi,Non-state actor,
+10005,Thailand,Non-state actor,
+10006,China,Non-state actor,
+10007,Mexico,Non-state actor,
+10008,Conservative Confederation,Non-state actor,
+10009,Viang Chan,Non-state actor,
+10010,Peru,Non-state actor,
+10011,Unitarians,Non-state actor,
+10012,Sayyid Said,Non-state actor,
+10013,Argentina,Non-state actor,
+10014,Bolivia,Non-state actor,
+10015,Boer Trekkers,Non-state actor,
+10016,Chile,Non-state actor,
+10017,Persia,Non-state actor,
+10018,Anti-Rosas Allies,Non-state actor,
+10019,Conservatives,Non-state actor,
+10020,Jammu,Non-state actor,
+10021,Santo Domingo,Non-state actor,
+10022,Kokand,Non-state actor,
+10023,Taiping rebels,Non-state actor,
+10024,al-Hajj Umar's Tukulor army,Non-state actor,
+10025,Kashmir,Non-state actor,
+10026,Han,Non-state actor,
+10027,Haiti,Non-state actor,
+10028,Nicaragua,Non-state actor,
+10029,Mbuyazi faction,Non-state actor,
+10030,Kucha,Non-state actor,
+10031,Basuto,Non-state actor,
+10032,Ethiopia,Non-state actor,
+10033,Umar Tal,Non-state actor,
+10034,Regional governments,Non-state actor,
+10035,Guatemala,Non-state actor,
+10036,Aborigines,Non-state actor,
+10037,Orange Free State,Non-state actor,
+10038,Tigray,Non-state actor,
+10039,Blancos,Non-state actor,
+10040,Cetewayo faction,Non-state actor,
+10041,Oman,Non-state actor,
+10042,German East Africa Company,Non-state actor,
+10043,Rabah,Non-state actor,
+10044,Nejd,Non-state actor,
+10045,Muslims,Non-state actor,
+10046,Telenganans,Non-state actor,
+10047,Arabs,Non-state actor,
+10048,Communists,Non-state actor,
+10049,Hutu,Non-state actor,
+10050,Dhofar,Non-state actor,
+10051,MPLA,Non-state actor,
+10052,Fretilin,Non-state actor,
+10053,Hemda,Non-state actor,
+10054,Khoja,Non-state actor,
+10055,military,Non-state actor,
+10056,Apodeti,Non-state actor,
+10057,Taranaki,Non-state actor,
+10058,Bantu,Non-state actor,
+10059,Assam,Non-state actor,
+10060,Provinces,Non-state actor,
+10061,Ngati Paoa,Non-state actor,
+10062,Kedah,Non-state actor,
+10063,Muslim rebels,Non-state actor,
+10064,Yaqui Indians,Non-state actor,
+10065,Liberals,Non-state actor,
+10066,Siam,Non-state actor,
+10067,Gran Colombia,Non-state actor,
+10068,Mombasa,Non-state actor,
+10069,Cambodia,Non-state actor,
+10070,Ranqueles Indians,Non-state actor,
+10071,Matabele,Non-state actor,
+10072,Peru-Bolivia Confederation,Non-state actor,
+10073,Herat,Non-state actor,
+10074,Zulu,Non-state actor,
+10075,Rosas Federalist Army,Non-state actor,
+10076,Tibet,Non-state actor,
+10077,Haitians,Non-state actor,
+10078,Malinke,Non-state actor,
+10079,Dards,Non-state actor,
+10080,Miao,Non-state actor,
+10081,Santo-Domingo,Non-state actor,
+10082,Nian,Non-state actor,
+10083,Costa Rica,Non-state actor,
+10084,Yunnan Muslims,Non-state actor,
+10085,Cetshwayo faction,Non-state actor,
+10086,Boers,Non-state actor,
+10087,Provincial armies,Non-state actor,
+10088,Bambara,Non-state actor,
+10089,Transvaal government,Non-state actor,
+10090,El Salvador,Non-state actor,
+10091,White Settlers,Non-state actor,
+10092,Colorados,Non-state actor,
+10093,Zibelu faction,Non-state actor,
+10094,Ibadi,Non-state actor,
+10095,Mahdist army,Non-state actor,
+10096,Bornu,Non-state actor,
+10097,Hejaz,Non-state actor,
+10098,Hindus,Non-state actor,
+10099,Razakars,Non-state actor,
+10100,Zionists,Non-state actor,
+10101,South Korea,Non-state actor,
+10102,Tutsi,Non-state actor,
+10103,FLNA,Non-state actor,
+10104,UDT,Non-state actor,
+10105,Lendu,Non-state actor,
+10106,Ngai Tahu,Non-state actor,
+10107,Ngati Maru,Non-state actor,
+10108,Vietnam,Non-state actor,
+10109,Honduras,Non-state actor,
+10110,Swahili,Non-state actor,
+10111,Sikhs,Non-state actor,
+10112,UNITA,Non-state actor,
+10113,Waikato,Non-state actor,
+10114,Waikato River Maori,Non-state actor,
+10115,Ngati Ira,Non-state actor,
+10116,Te Arawa,Non-state actor,
+10117,Rangitikei,Non-state actor,
+10118,Damascus and Aleppo,Non-state actor,
+10119,Egypt,Non-state actor,
+10120,Maronites,Non-state actor,
+10121,Yucatan,Non-state actor,
+10122,Minnesota,Non-state actor,
+10123,Kashgar,Non-state actor,
+10124,Kashgarians,Non-state actor,
+10125,Sichuan,Non-state actor,
+10126,Western Ukraine,Non-state actor,
+10127,Freikorps,Non-state actor,
+10128,An-Fu Faction,Non-state actor,
+10129,Blackshirts,Non-state actor,
+10130,Golok Tibetans,Non-state actor,
+10131,Guominjun,Non-state actor,
+10132,GMD,Non-state actor,
+10133,Xinjiang,Non-state actor,
+10134,Hui,Non-state actor,
+10135,Regional Militaries,Non-state actor,
+10136,ELF,Non-state actor,
+10137,Maronite militias,Non-state actor,
+10138,Lebanese Forces,Non-state actor,
+10139,Inkatha,Non-state actor,
+10140,SPLA-Garang,Non-state actor,
+10141,Jukun,Non-state actor,
+10142,Tur Loyalists,Non-state actor,
+10143,Banyarwanda Militia,Non-state actor,
+10144,PUK,Non-state actor,
+10145,Somaliland,Non-state actor,
+10146,Laskar Jihad,Non-state actor,
+10147,Christian Tarok,Non-state actor,
+10148,Islamic State,Non-state actor,
+10149,Houthi Rebels,Non-state actor,
+10150,Caucasus Rebels,Non-state actor,
+10151,Ali Pasha Loyalists,Non-state actor,
+10152,Piedmont Liberals,Non-state actor,
+10153,Greeks,Non-state actor,
+10154,Sidon,Non-state actor,
+10155,Royalists,Non-state actor,
+10156,Mehdi Army,Non-state actor,
+10157,Chechnya,Non-state actor,
+10158,Janissaries,Non-state actor,
+10159,Murids,Non-state actor,
+10160,Albanians and Bosnians,Non-state actor,
+10161,Belgium,Non-state actor,
+10162,Hadendowa Tribe,Non-state actor,
+10163,Poland,Non-state actor,
+10164,Pernambuco Cabanos,Non-state actor,
+10165,Constitutionalists,Non-state actor,
+10166,Palestinians and Bedouins,Non-state actor,
+10167,Carlists,Non-state actor,
+10168,Cabanos,Non-state actor,
+10169,Zacatecas Militia,Non-state actor,
+10170,Farrapos,Non-state actor,
+10171,Texas,Non-state actor,
+10172,Bosnians,Non-state actor,
+10173,Bahia Sabinada,Non-state actor,
+10174,Druzes,Non-state actor,
+10175,Federalists,Non-state actor,
+10176,Balaida Rebels,Non-state actor,
+10177,Lebanese Maronites and Druze,Non-state actor,
+10178,Progressives,Non-state actor,
+10179,Unitarios,Non-state actor,
+10180,Nish,Non-state actor,
+10181,Military Rebels,Non-state actor,
+10182,Karbala Gangs,Non-state actor,
+10183,Septembrists,Non-state actor,
+10184,Mayans,Non-state actor,
+10185,Paez-led Rebels,Non-state actor,
+10186,Republicans,Non-state actor,
+10187,Vienna Liberals,Non-state actor,
+10188,Milan Liberals,Non-state actor,
+10189,Hungary,Non-state actor,
+10190,Bosnian and Montenegrin Beys,Non-state actor,
+10191,Aleppo,Non-state actor,
+10192,Druze Alliance,Non-state actor,
+10193,Montenegro and Hercegovina,Non-state actor,
+10194,Greek Nationalists,Non-state actor,
+10195,Greek Nationalists in Macedonia,Non-state actor,
+10196,Rodriguez-led Rebels,Non-state actor,
+10197,Libyan Rebels,Non-state actor,
+10198,Conservative Military,Non-state actor,
+10199,Montenegro,Non-state actor,
+10200,Constituents,Non-state actor,
+10201,Taipings,Non-state actor,
+10202,Nien Society,Non-state actor,
+10203,Hui Rebels,Non-state actor,
+10204,Confederate States of America,Non-state actor,
+10205,Shaanxi and Gansu Muslims,Non-state actor,
+10206,Santee Sioux,Non-state actor,
+10207,Perez-led Rebels,Non-state actor,
+10208,Polish nationalists,Non-state actor,
+10209,Monteneros,Non-state actor,
+10210,Sicilian Bandits,Non-state actor,
+10211,Ghadam-led Rebels,Non-state actor,
+10212,Xinjiang Muslims,Non-state actor,
+10213,Mito Rebels,Non-state actor,
+10214,Cretans,Non-state actor,
+10215,Zhang Jizhong-led Rebels,Non-state actor,
+10216,Khotanese,Non-state actor,
+10217,Blue Coalition,Non-state actor,
+10218,Tokugawa Bafuku,Non-state actor,
+10219,Cacos,Non-state actor,
+10220,Urumchi Tungans,Non-state actor,
+10221,Entre Rios,Non-state actor,
+10222,Criollos,Non-state actor,
+10223,Paris Commune,Non-state actor,
+10224,Cantons,Non-state actor,
+10225,Mitre-led Rebels,Non-state actor,
+10226,Bosnia-Herzegovina and Bulgaria,Non-state actor,
+10227,Tuxtepecanos,Non-state actor,
+10228,Satsumas,Non-state actor,
+10229,Indians,Non-state actor,
+10230,Revindacadores,Non-state actor,
+10231,Mahdists,Non-state actor,
+10232,War Liberals,Non-state actor,
+10233,Huarez Indians,Non-state actor,
+10234,Yemen,Non-state actor,
+10235,Campos-led Rebels,Non-state actor,
+10236,Congressists,Non-state actor,
+10237,Zailis and Jinden,Non-state actor,
+10238,Legalists,Non-state actor,
+10239,Rio Grande do Sul,Non-state actor,
+10240,Naval Royalists,Non-state actor,
+10241,Tonghak Society,Non-state actor,
+10242,National Coalition,Non-state actor,
+10243,Gansu Muslims,Non-state actor,
+10244,Hunchaks,Non-state actor,
+10245,Conselhistas,Non-state actor,
+10246,Hernandez-led Rebels,Non-state actor,
+10247,Muhammad al-Mansur Loyalists,Non-state actor,
+10248,Castro-led Rebels,Non-state actor,
+10249,Yaqui,Non-state actor,
+10250,Mayan Cruzob,Non-state actor,
+10251,Matos-led Rebels,Non-state actor,
+10252,Zaidi Imamate,Non-state actor,
+10253,IMRO,Non-state actor,
+10254,Ibn Saud-led Rebels,Non-state actor,
+10255,Workers and Peasants,Non-state actor,
+10256,Peasants,Non-state actor,
+10257,Mulai el-Hafid-led Forces,Non-state actor,
+10258,Asir and Yemen Rebels,Non-state actor,
+10259,Estradistas,Non-state actor,
+10260,Albanians,Non-state actor,
+10261,Liberals and Radicals,Non-state actor,
+10262,Radical Liberals,Non-state actor,
+10263,Alfaristas,Non-state actor,
+10264,Partido Independiente de Color,Non-state actor,
+10265,Conchistas,Non-state actor,
+10266,Pai-Lings,Non-state actor,
+10267,Fanaticos,Non-state actor,
+10268,Conventionists,Non-state actor,
+10269,NPA,Non-state actor,
+10270,Kirghiz & Kazaks,Non-state actor,
+10271,Negus Mikael-led Rebels,Non-state actor,
+10272,Yunnan and Guizhou,Non-state actor,
+10273,CPA,Non-state actor,
+10274,Anti-Bolsheviks,Non-state actor,
+10275,Red Guard,Non-state actor,
+10276,Ukranian Poles,Non-state actor,
+10277,Socialists,Non-state actor,
+10278,Whites,Non-state actor,
+10279,Yunnan-Guizhou Forces,Non-state actor,
+10280,SSRI,Non-state actor,
+10281,Zhili and Fengtien Factions,Non-state actor,
+10282,Sharia Army,Non-state actor,
+10283,Tambov Peasants,Non-state actor,
+10284,Basmachi,Non-state actor,
+10285,Leftists,Non-state actor,
+10286,Shikak Kurds,Non-state actor,
+10287,Sailors,Non-state actor,
+10288,Belopovstantsy,Non-state actor,
+10289,Zhili Faction,Non-state actor,
+10290,Agrarian League,Non-state actor,
+10291,Huerta Led Rebels,Non-state actor,
+10292,Khost Rebels,Non-state actor,
+10293,Fengtien Faction,Non-state actor,
+10294,Zaza Kurds,Non-state actor,
+10295,Fengtien Army,Non-state actor,
+10296,GMD and CCP,Non-state actor,
+10297,Cristeros,Non-state actor,
+10298,CCP,Non-state actor,
+10299,Northern Resistance,Non-state actor,
+10300,Anti-Reform Rebels,Non-state actor,
+10301,Escobar-led Rebels,Non-state actor,
+10302,Ikhwan,Non-state actor,
+10303,Warlord Armies,Non-state actor,
+10304,Kurds,Non-state actor,
+10305,Army of Islam,Non-state actor,
+10306,Chinese Workers,Non-state actor,
+10307,Kumuliks and Allies,Non-state actor,
+10308,Buddhist Rebels,Non-state actor,
+10309,Apristas,Non-state actor,
+10310,Paulistas,Non-state actor,
+10311,Uyghur and Kirghiz,Non-state actor,
+10312,19th Route Army,Non-state actor,
+10313,Asturian Miners,Non-state actor,
+10314,Falange,Non-state actor,
+10315,Dersim Kurds,Non-state actor,
+10316,Weyane Rebels,Non-state actor,
+10317,East Turkestan Republic,Non-state actor,
+10318,EAM-ELAS,Non-state actor,
+10319,UPA,Non-state actor,
+10320,Baltic Partisans,Non-state actor,
+10321,Taiwanese,Non-state actor,
+10322,Pro-Ahmad Forces,Non-state actor,
+10323,Army of National Liberation,Non-state actor,
+10324,Karens and Communists,Non-state actor,
+10325,Hyderabad Communists,Non-state actor,
+10326,Huks,Non-state actor,
+10327,Republik Maluku Selan,Non-state actor,
+10328,Darul Islam,Non-state actor,
+10329,MNR,Non-state actor,
+10330,Liberal Guerillas,Non-state actor,
+10331,Liangshan Rebels,Non-state actor,
+10332,Khamba Tibetans,Non-state actor,
+10333,Naga Home Guard,Non-state actor,
+10334,Permesta Rebels,Non-state actor,
+10335,National Front,Non-state actor,
+10336,Fidelistas,Non-state actor,
+10337,Karens & Communists,Non-state actor,
+10338,Pro-Western Factions,Non-state actor,
+10339,NLF,Non-state actor,
+10340,Pathet Lao,Non-state actor,
+10341,Anti-Lumumba Coalition,Non-state actor,
+10342,ALN,Non-state actor,
+10343,OLF,Non-state actor,
+10344,Anya Nya,Non-state actor,
+10345,Tutsi Rebels,Non-state actor,
+10346,Jeunesse,Non-state actor,
+10347,CNL,Non-state actor,
+10348,KDP Factions,Non-state actor,
+10349,Buganda,Non-state actor,
+10350,OPM,Non-state actor,
+10351,Red Guards,Non-state actor,
+10352,Biafra,Non-state actor,
+10353,FROLINAT,Non-state actor,
+10354,KDP-Barzani,Non-state actor,
+10355,Naxalite Marxists,Non-state actor,
+10356,Palestinians,Non-state actor,
+10357,Bengalis,Non-state actor,
+10358,JVP,Non-state actor,
+10359,Khmer Rouge,Non-state actor,
+10360,MNLF Moros,Non-state actor,
+10361,People's Liberation Army,Non-state actor,
+10362,EPLF,Non-state actor,
+10363,Baluchi Rebels,Non-state actor,
+10364,PFLOAG,Non-state actor,
+10365,EPLF and ELF,Non-state actor,
+10366,Monteneros and ERP,Non-state actor,
+10367,Lebanese National Movement,Non-state actor,
+10368,Chao Fa Rebels,Non-state actor,
+10369,Patriotic Front,Non-state actor,
+10370,WSLF,Non-state actor,
+10371,FRETILIN,Non-state actor,
+10372,FAP,Non-state actor,
+10373,PLO & Shiite militia,Non-state actor,
+10374,Ogaden Independence Movement,Non-state actor,
+10375,PDPA,Non-state actor,
+10376,FNLC,Non-state actor,
+10377,Mujahideen,Non-state actor,
+10378,Sandinistas,Non-state actor,
+10379,Anti-Shah Coalition,Non-state actor,
+10380,Anti-Khomeini Coalition,Non-state actor,
+10381,Salvadorian Democratic Front,Non-state actor,
+10382,FAN,Non-state actor,
+10383,Al Masifu Sect,Non-state actor,
+10384,RENAMO,Non-state actor,
+10385,TPLF & EPLF,Non-state actor,
+10386,Muslim Brotherhood,Non-state actor,
+10387,Contras,Non-state actor,
+10388,NRA,Non-state actor,
+10389,Shining Path,Non-state actor,
+10390,Shi'ites and Druzes,Non-state actor,
+10391,SPLA-Garang faction,Non-state actor,
+10392,Tamil Rebels,Non-state actor,
+10393,Sikh Rebels,Non-state actor,
+10394,PKK,Non-state actor,
+10395,Leftist Factions,Non-state actor,
+10396,HSMF,Non-state actor,
+10397,ANC,Non-state actor,
+10398,SNM,Non-state actor,
+10399,Leftist Rebels and Drug Cartels,Non-state actor,
+10400,Lahoud Faction,Non-state actor,
+10401,April 1 Movement,Non-state actor,
+10402,Sikh Guerillas,Non-state actor,
+10403,Khmer Rouge & KPNFL,Non-state actor,
+10404,National Salvation Front,Non-state actor,
+10405,NPFL and INPFL,Non-state actor,
+10406,GAM,Non-state actor,
+10407,LTTE,Non-state actor,
+10408,BRA,Non-state actor,
+10409,Shiites and SAIRI,Non-state actor,
+10410,RUF,Non-state actor,
+10411,Croatia,Non-state actor,
+10412,Pro-Aideed Alliance,Non-state actor,
+10413,SPLA-Nasir and Anya Nya II,Non-state actor,
+10414,Tiv,Non-state actor,
+10415,Reform Movement,Non-state actor,
+10416,Nagorno-Karabakh,Non-state actor,
+10417,Dniestria,Non-state actor,
+10418,Kashmiri Guerillas,Non-state actor,
+10419,Other Clan Militias,Non-state actor,
+10420,Islamic Front,Non-state actor,
+10421,United Tajik Opposition,Non-state actor,
+10422,Bosnian Serbs,Non-state actor,
+10423,Abkhazia,Non-state actor,
+10424,NPFL,Non-state actor,
+10425,Bangilima Militia,Non-state actor,
+10426,South Yemen,Non-state actor,
+10427,RPF,Non-state actor,
+10428,KDP and IMK,Non-state actor,
+10429,Garhaji Militias,Non-state actor,
+10430,Krajinia Serbs,Non-state actor,
+10431,PUK and INC,Non-state actor,
+10432,AFDL Coalition,Non-state actor,
+10433,ALiR,Non-state actor,
+10434,Cobra militia,Non-state actor,
+10435,KDP,Non-state actor,
+10436,Kabbah Faction,Non-state actor,
+10437,Kosovo,Non-state actor,
+10438,Mane Junta,Non-state actor,
+10439,RCD and MLC,Non-state actor,
+10440,MDD & MDJT,Non-state actor,
+10441,Ninjas and Cocoye militias,Non-state actor,
+10442,Christian militia,Non-state actor,
+10443,Chechen Rebels,Non-state actor,
+10444,MILF & ASG,Non-state actor,
+10445,RDFG,Non-state actor,
+10446,FNL and FDD,Non-state actor,
+10447,LURD & MODEL,Non-state actor,
+10448,New Forces,Non-state actor,
+10449,SLA & JEM,Non-state actor,
+10450,Waziri tribes,Non-state actor,
+10451,Muslim Fulani,Non-state actor,
+10452,United Opposition,Non-state actor,
+10453,ICU,Non-state actor,
+10454,Taliban,Non-state actor,
+10455,Sunni Rebels,Non-state actor,
+10456,NLA,Non-state actor,
+10457,SPLM-N,Non-state actor,
+10458,Syrian Rebel Groups,Non-state actor,
+10459,KIA,Non-state actor,
+10460,Northern Opposition,Non-state actor,
+10461,Seleka,Non-state actor,
+10462,Boko Haram,Non-state actor,
+10463,SPLM-IO,Non-state actor,
+10464,Jabhat al-Nusra,Non-state actor,
+10465,Ansar Allah,Non-state actor,
+10466,Al-Shabaab,Non-state actor,
+10467,Separatists,Non-state actor,
+10468,Libyan Dawn,Non-state actor,
+10469,AQAP,Non-state actor,
+10470,Algeria,Non-state actor,
+10471,Saudi Wahhabis,Non-state actor,
+10472,San Martin revolutionaries,Non-state actor,
+10473,New Granada,Non-state actor,
+10474,Mina Expedition,Non-state actor,
+10475,Kandyan rebels,Non-state actor,
+10476,Marathas,Non-state actor,
+10477,Sudan states,Non-state actor,
+10478,Ashanti-Ghana,Non-state actor,
+10479,Latin American revolutionaries,Non-state actor,
+10480,Javanese rebels,Non-state actor,
+10481,Bharatpuran rebels,Non-state actor,
+10482,Bilmez-Asiri,Non-state actor,
+10483,Zulu tribe,Non-state actor,
+10484,Afghanistan,Non-state actor,
+10485,Algerian forces,Non-state actor,
+10486,Sind,Non-state actor,
+10487,Uruguay,Non-state actor,
+10488,Gwalior,Non-state actor,
+10489,Morocco,Non-state actor,
+10490,Cracow,Non-state actor,
+10491,Khosa,Non-state actor,
+10492,Bali,Non-state actor,
+10493,Chinese Pirates,Non-state actor,
+10494,Xhosa,Non-state actor,
+10495,Yam,Non-state actor,
+10496,Tukulor,Non-state actor,
+10497,Santal,Non-state actor,
+10498,Beni Aseer tribe,Non-state actor,
+10499,Kabylia,Non-state actor,
+10500,Indian sepoys,Non-state actor,
+10501,Bone,Non-state actor,
+10502,Red Shirts,Non-state actor,
+10503,New Zealand Maori,Non-state actor,
+10504,Choshu Daimyo,Non-state actor,
+10505,Pathan tribe,Non-state actor,
+10506,Bhutan,Non-state actor,
+10507,Bukhara,Non-state actor,
+10508,Ethiopians,Non-state actor,
+10509,Cuba,Non-state actor,
+10510,Bahr el-Ghazal,Non-state actor,
+10511,"Yemen, Asir, Hasa",Non-state actor,
+10512,Ashanti,Non-state actor,
+10513,Aceh,Non-state actor,
+10514,"Serbia, Montenegro",Non-state actor,
+10515,S. Africa Xhosa,Non-state actor,
+10516,Sudanese Slavers,Non-state actor,
+10517,Turkomans,Non-state actor,
+10518,Bosnia,Non-state actor,
+10519,Transvaal,Non-state actor,
+10520,Tunisia,Non-state actor,
+10521,Mahdist Empire,Non-state actor,
+10522,"Vietnam, Black Flag",Non-state actor,
+10523,Madagasar,Non-state actor,
+10524,Mandinka,Non-state actor,
+10525,Bulgaria,Non-state actor,
+10526,Prazero da Cruz,Non-state actor,
+10527,Dahomey,Non-state actor,
+10528,Jolof/Tukulor,Non-state actor,
+10529,Tippu Tib Empire,Non-state actor,
+10530,Rif tribes,Non-state actor,
+10531,Gaza Empire,Non-state actor,
+10532,Mazrui clan of Kenya,Non-state actor,
+10533,Philippines,Non-state actor,
+10534,Nigeria,Non-state actor,
+10535,Pathans,Non-state actor,
+10536,Sierra Leone rebels,Non-state actor,
+10537,Rabih az-Zubayr,Non-state actor,
+10538,Boer Republics,Non-state actor,
+10539,Mohammad Abdullah Hassans Dervishes,Non-state actor,
+10540,Bailundu of Angola,Non-state actor,
+10541,Kuanhama of Angola,Non-state actor,
+10542,Kano & Sokoto,Non-state actor,
+10543,Herero & Nama,Non-state actor,
+10544,Maji-Maji in Tanganyika,Non-state actor,
+10545,Mahdist rebels,Non-state actor,
+10546,Dembos,Non-state actor,
+10547,Sheikh Ma Al-Ainie,Non-state actor,
+10548,Korea,Non-state actor,
+10549,Wadai sultanate,Non-state actor,
+10550,Berbers,Non-state actor,
+10551,Moro,Non-state actor,
+10552,Caco Rebels,Non-state actor,
+10553,Waziristan,Non-state actor,
+10554,Syrians,Non-state actor,
+10555,Iraq,Non-state actor,
+10556,Baron von Ungern-Sternbergs White army,Non-state actor,
+10557,Sanusi tribe,Non-state actor,
+10558,Riffs,Non-state actor,
+10559,Muslim Moplahs,Non-state actor,
+10560,Druze,Non-state actor,
+10561,Vietnamese Nationalists,Non-state actor,
+10562,Peasant Rebels,Non-state actor,
+10563,Pathan tribes,Non-state actor,
+10564,Indonesia,Non-state actor,
+10565,Vietminh,Non-state actor,
+10566,Madagascar,Non-state actor,
+10567,Malayan Communists,Non-state actor,
+10568,Hyderabad,Non-state actor,
+10569,Mau Mau,Non-state actor,
+10570,UPC,Non-state actor,
+10571,Angola,Non-state actor,
+10572,Mozambique,Non-state actor,
+10573,Fretilin & UDT,Non-state actor,
+10574,SWAPO-Namibia,Non-state actor,
+10575,Polisario,Non-state actor,
+10576,Muhajadin,Non-state actor,
+10577,PKK in Iraq,Non-state actor,
+10578,al-Qaeda & Taliban,Non-state actor,
+10579,al-Qaeda & Iraqi resistence,Non-state actor,

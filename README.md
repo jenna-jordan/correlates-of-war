@@ -34,6 +34,22 @@ Steps to recreate environment used for this repo:
     - `conda install -c conda-forge sqlalchemy`
 5. Install black (for code formatting)
     - `conda install -c conda-forge black`
+6. Install jupyterlab
+    - `conda install -c conda-forge jupyterlab`
+
+## Repo Structure
+
+### Directories
+
+- All datasets are kept in the `Data` directory. Raw datasets - downloaded directly from the source and not altered in any way - are kept in the `Data/Raw` subdirectory.
+- All data documentation is kept in the `Documentation` directory. Raw documentation - PDFs downloaded directly from the source and not altered in any way - are kept in the `Documentation/Raw` subdirectory.
+- Code for wrangling data (manipulating it into the format needed by the database) is kept in the `Wrangle` directory
+- Code for creating and manipulating the database is kept in the `Database` directory
+
+### Files in root directory
+
+- All dataset and documentation citations are kept in `CITATIONS.md`
+- The license, found at `LICENSE`, is a BSD 3-Clause License with an addendum for the Correlates of War Project's Terms & Conditions
 
 ## Datasets
 
