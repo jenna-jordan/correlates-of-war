@@ -31,27 +31,11 @@ class Polity_Dates(Base):
     __table_args__ = (ForeignKeyConstraint(["polity"], ["polity.id"]),)
 
 
-class Resources(Base):
-    __tablename__ = "resources"
-
-    polity = Column(Integer(5), primary_key=True)
-    year = Column(Integer(4), primary_key=True)
-    resource = Column(String(10), primary_key=True)
-    amount = Column(Integer)
-    source = Column(Text)
-    note = Column(Text)
-    quality_code = Column(String(1))
-    anomoly_code = Column(String(1))
-
-    __table_args__ = (ForeignKeyConstraint(["polity"], ["polity.id"]),)
-
-
 class War(Base):
     __tablename__ = "war"
 
     id = Column(Integer(4), primary_key=True)
     name = Column(Text)
-    fullname = Column(Text)
     type_code = Column(Integer(1))
     type_name = Column(Text)
     is_intervention = Column(Boolean)
@@ -97,3 +81,18 @@ class War_Transitions(Base):
         ForeignKeyConstraint(["from_war"], ["war.id"]),
         ForeignKeyConstraint(["to_war"], ["war.id"]),
     )
+
+
+class Resources(Base):
+    __tablename__ = "resources"
+
+    polity = Column(Integer(5), primary_key=True)
+    year = Column(Integer(4), primary_key=True)
+    resource = Column(String(10), primary_key=True)
+    amount = Column(Integer)
+    source = Column(Text)
+    note = Column(Text)
+    quality_code = Column(String(1))
+    anomoly_code = Column(String(1))
+
+    __table_args__ = (ForeignKeyConstraint(["polity"], ["polity.id"]),)
