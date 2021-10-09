@@ -34,10 +34,11 @@ class Polity_Dates(Base):
 class War(Base):
     __tablename__ = "war"
 
-    id = Column(Integer(4), primary_key=True)
+    id = Column(String(5), primary_key=True)
     name = Column(Text)
     type_code = Column(Integer(1))
     type_name = Column(Text)
+    subtype_name = Column(Text)
     is_intervention = Column(Boolean)
     is_international = Column(Boolean)
 
@@ -45,7 +46,7 @@ class War(Base):
 class War_Locations(Base):
     __tablename__ = "war_locations"
 
-    war = Column(Integer(4), primary_key=True)
+    war = Column(String(5), primary_key=True)
     region = Column(Text, primary_key=True)
 
     __table_args__ = (ForeignKeyConstraint(["war"], ["war.id"]),)
@@ -54,7 +55,7 @@ class War_Locations(Base):
 class War_Participants(Base):
     __tablename__ = "war_participants"
 
-    war = Column(Integer(4), primary_key=True)
+    war = Column(String(5), primary_key=True)
     polity = Column(Integer(5), primary_key=True)
     start_date = Column(Date, primary_key=True)
     start_date_prec = Column(Text)
@@ -74,8 +75,8 @@ class War_Participants(Base):
 class War_Transitions(Base):
     __tablename__ = "war_transitions"
 
-    from_war = Column(Integer(4), primary_key=True)
-    to_war = Column(Integer(4), primary_key=True)
+    from_war = Column(String(5), primary_key=True)
+    to_war = Column(String(5), primary_key=True)
 
     __table_args__ = (
         ForeignKeyConstraint(["from_war"], ["war.id"]),

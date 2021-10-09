@@ -1,0 +1,741 @@
+id,name,type_code,type_name,subtype_name,is_intervention,is_international
+1,Franco-Spanish War,1,Inter-State,Inter-State,,
+4,First Russo-Turkish,1,Inter-State,Inter-State,,
+7,Mexican-American,1,Inter-State,Inter-State,,
+10,Austro-Sardinian,1,Inter-State,Inter-State,,
+13,First Schleswig-Holstein,1,Inter-State,Inter-State,,
+16,Roman Republic,1,Inter-State,Inter-State,,
+19,La Plata,1,Inter-State,Inter-State,,
+22,Crimean,1,Inter-State,Inter-State,,
+25,Anglo-Persian,1,Inter-State,Inter-State,,
+28,Italian Unification,1,Inter-State,Inter-State,,
+31,First Spanish-Moroccan,1,Inter-State,Inter-State,,
+34,Italian-Roman,1,Inter-State,Inter-State,,
+37,Neapolitan,1,Inter-State,Inter-State,,
+40,Franco-Mexican,1,Inter-State,Inter-State,,
+43,Ecuadorian-Colombian,1,Inter-State,Inter-State,,
+46,Second Schleswig-Holstein,1,Inter-State,Inter-State,,
+49,Lopez,1,Inter-State,Inter-State,,
+52,Naval War,1,Inter-State,Inter-State,,
+55,Seven Weeks,1,Inter-State,Inter-State,,
+58,Franco-Prussian,1,Inter-State,Inter-State,,
+60,First Central American,1,Inter-State,Inter-State,,
+61,Second Russo-Turkish,1,Inter-State,Inter-State,,
+64,War of the Pacific,1,Inter-State,Inter-State,,
+65,Conquest of Egypt,1,Inter-State,Inter-State,,
+67,Sino-French,1,Inter-State,Inter-State,,
+70,Second Central American,1,Inter-State,Inter-State,,
+73,First Sino-Japanese,1,Inter-State,Inter-State,,
+76,Greco-Turkish,1,Inter-State,Inter-State,,
+79,Spanish-American,1,Inter-State,Inter-State,,
+82,Boxer Rebellion,1,Inter-State,Inter-State,,
+83,Sino-Russian,1,Inter-State,Inter-State,,
+85,Russo-Japanese,1,Inter-State,Inter-State,,
+88,Third Central American,1,Inter-State,Inter-State,,
+91,Fourth Central American,1,Inter-State,Inter-State,,
+94,Second Spanish-Moroccan,1,Inter-State,Inter-State,,
+97,Italian-Turkish,1,Inter-State,Inter-State,,
+100,First Balkan,1,Inter-State,Inter-State,,
+103,Second Balkan,1,Inter-State,Inter-State,,
+106,World War I,1,Inter-State,Inter-State,,
+107,Estonian Liberation,1,Inter-State,Inter-State,,
+108,Latvian Liberation,1,Inter-State,Inter-State,,
+109,Russo-Polish,1,Inter-State,Inter-State,,
+112,Hungarian Adversaries,1,Inter-State,Inter-State,,
+115,Second Greco-Turkish,1,Inter-State,Inter-State,,
+116,Franco-Turkish,1,Inter-State,Inter-State,,
+117,Lithuanian-Polish,1,Inter-State,Inter-State,,
+118,Manchurian,1,Inter-State,Inter-State,,
+121,Second Sino-Japanese,1,Inter-State,Inter-State,,
+124,Chaco,1,Inter-State,Inter-State,,
+125,Saudi-Yemeni,1,Inter-State,Inter-State,,
+127,Conquest of Ethiopia,1,Inter-State,Inter-State,,
+130,Third Sino-Japanese,1,Inter-State,Inter-State,,
+133,Changkufeng,1,Inter-State,Inter-State,,
+136,Nomonhan,1,Inter-State,Inter-State,,
+139,World War II,1,Inter-State,Inter-State,,
+142,Russo-Finnish,1,Inter-State,Inter-State,,
+145,Franco-Thai,1,Inter-State,Inter-State,,
+147,First Kashmir,1,Inter-State,Inter-State,,
+148,Arab-Israeli,1,Inter-State,Inter-State,,
+151,Korean,1,Inter-State,Inter-State,,
+153,Off-shore Islands,1,Inter-State,Inter-State,,
+155,Sinai War,1,Inter-State,Inter-State,,
+156,Soviet Invasion of Hungary,1,Inter-State,Inter-State,,
+158,IfniWar,1,Inter-State,Inter-State,,
+159,Taiwan Straits,1,Inter-State,Inter-State,,
+160,Assam,1,Inter-State,Inter-State,,
+163,"Vietnam War, Phase 2",1,Inter-State,Inter-State,,
+166,Second Kashmir,1,Inter-State,Inter-State,,
+169,Six Day War,1,Inter-State,Inter-State,,
+170,"Second Laotian, Phase 2",1,Inter-State,Inter-State,,
+172,War of Attrition,1,Inter-State,Inter-State,,
+175,Football War,1,Inter-State,Inter-State,,
+176,Communist Coalition,1,Inter-State,Inter-State,,
+178,Bangladesh,1,Inter-State,Inter-State,,
+181,Yom Kippur War,1,Inter-State,Inter-State,,
+184,Turco-Cypriot,1,Inter-State,Inter-State,,
+186,War over Angola,1,Inter-State,Inter-State,,
+187,"Second Ogaden War, Phase 2",1,Inter-State,Inter-State,,
+189,Vietnamese-Cambodian,1,Inter-State,Inter-State,,
+190,Ugandian-Tanzanian,1,Inter-State,Inter-State,,
+193,Sino-Vietnamese Punitive,1,Inter-State,Inter-State,,
+199,Iran-Iraq,1,Inter-State,Inter-State,,
+202,Falkland Islands,1,Inter-State,Inter-State,,
+205,War over Lebanon,1,Inter-State,Inter-State,,
+207,War over the Aouzou Strip,1,Inter-State,Inter-State,,
+208,Sino-Vietnamese Border War,1,Inter-State,Inter-State,,
+211,Gulf War,1,Inter-State,Inter-State,,
+215,Bosnian Independence,1,Inter-State,Inter-State,,
+216,Azeri-Armenian,1,Inter-State,Inter-State,,
+217,Cenepa Valley,1,Inter-State,Inter-State,,
+219,Badme Border,1,Inter-State,Inter-State,,
+221,War for Kosovo,1,Inter-State,Inter-State,,
+223,Kargil War,1,Inter-State,Inter-State,,
+225,Invasion of Afghanistan,1,Inter-State,Inter-State,,
+227,Invasion of Iraq,1,Inter-State,Inter-State,,
+500,First Caucasus War of 1818-1822,5,Intra-State,Civil war over local issues,,False
+502,First Two Sicilies War of 1820-1821,4,Intra-State,Civil war for central control,,True
+502.1,Ali Pasha Rebellion of 1820-1822,5,Intra-State,Civil war over local issues,,False
+503,Sardinian Revolt of 1821,4,Intra-State,Civil war for central control,,True
+504,Greek Independence War of 1821-1828,5,Intra-State,Civil war over local issues,,True
+504.3,Sidon-Damascus War of 1821-1822,6,Intra-State,Regional internal,,False
+505,Spanish Royalists War of 1821-1823,4,Intra-State,Civil war for central control,,False
+507,Egypt-Mehdi War of 1824,6,Intra-State,Regional internal,,False
+507.5,Greater Chechnya Revolt of 1825-1826,5,Intra-State,Civil war over local issues,,False
+508,Janissari Revolt of 1826,4,Intra-State,Civil war for central control,,False
+511,First Murid War of 1830-1832,5,Intra-State,Civil war over local issues,,False
+512,First Albanian Revolt of 1830-1832,5,Intra-State,Civil war over local issues,,False
+513,First French Insurrection of 1830,4,Intra-State,Civil war for central control,,False
+515,Belgian Independence War of 1830,5,Intra-State,Civil war over local issues,,False
+516,Egyptian Taka Expedition of 1831,6,Intra-State,Regional internal,,False
+517,First Polish War of 1831,5,Intra-State,Civil war over local issues,,False
+518,First Syrian War of 1831-1832,5,Intra-State,Civil war over local issues,,False
+520,First Mexican War of 1832,4,Intra-State,Civil war for central control,,False
+520.3,Cabanada War of 1832-1835,4,Intra-State,Civil war for central control,,False
+520.5,Miguelite War of 1832-1834,4,Intra-State,Civil war for central control,,True
+521,Palestinian Anti-Conscription Revolt of 1834,6,Intra-State,Regional internal,,False
+522,First Carlist War of 1834-1840,4,Intra-State,Civil war for central control,,True
+523,Second Murid War of 1834,5,Intra-State,Civil war over local issues,,False
+525,Cabanos Revolt of 1835-1837,5,Intra-State,Civil war over local issues,,False
+525.5,Zacatecas Rebellion of 1835,4,Intra-State,Civil war for central control,,False
+526,Farroupilha War of 1835-1845,5,Intra-State,Civil war over local issues,,False
+527,Texan War of 1835-1836,5,Intra-State,Civil war over local issues,,False
+528,First Bosnian War of 1836,5,Intra-State,Civil war over local issues,,False
+530,Third Murid War of 1836-1852,5,Intra-State,Civil war over local issues,,False
+531,Sabinada Rebellion of 1837-1838,5,Intra-State,Civil war over local issues,,False
+532,Druze Rebellion of 1837-1838,6,Intra-State,Regional internal,,False
+532.5,Tampico Revolt of 1838-1839,4,Intra-State,Civil war for central control,,False
+532.7,Balaiada Revolt of 1838-1841,5,Intra-State,Civil war over local issues,,False
+533,Second Syrian War of 1839,5,Intra-State,Civil war over local issues,,False
+535,Lebanon Insurgency of 1840,6,Intra-State,Regional internal,,False
+536,First Colombian War of 1840-1842,4,Intra-State,Civil war for central control,,False
+537,Third Syrian War of 1840-1841,5,Intra-State,Civil war over local issues,,True
+538,First Argentina War phase 2 of 1841-1842,4,Intra-State,Civil war for central control,,False
+539,Nish Uprising of 1841,5,Intra-State,Civil war over local issues,,False
+540,Second Bosnian War of 1841,5,Intra-State,Civil war over local issues,,False
+541,Triangular Revolt of 1841,4,Intra-State,Civil war for central control,,False
+541.2,First Maronite-Druze War of 1841,7,Intra-State,Intercommunal,,False
+542,Karbala Revolt of 1842-1843,5,Intra-State,Civil war over local issues,,False
+543,Second Maronite-Druze War of 1845,7,Intra-State,Intercommunal,,False
+544,Patuleia War of 1846-1847,4,Intra-State,Civil war for central control,,True
+545,Mayan Caste War phase 1 of 1847-1848,6,Intra-State,Regional internal,,False
+546,Second Carlist War of 1847-1849,4,Intra-State,Civil war for central control,,False
+547,Second Two Sicilies War of 1848-1849,4,Intra-State,Civil war for central control,,False
+548, First Venezuela War of 1848-1849,4,Intra-State,Civil war for central control,,False
+549,Second French Insurrection of 1848,4,Intra-State,Civil war for central control,,False
+550,Viennese Revolt of 1848,4,Intra-State,Civil war for central control,,False
+551,Milan Five Day Revolt of 1848,5,Intra-State,Civil war over local issues,,False
+553,Mayan Caste War phase 2 of 1848-1855,5,Intra-State,Civil war over local issues,,False
+554,Hungarian War of 1848-1849,5,Intra-State,Civil war over local issues,,True
+554.3,Third Bosnian War of 1850-1851,5,Intra-State,Civil war over local issues,,False
+554.5,Aleppo Revolt of 1850,5,Intra-State,Civil war over local issues,,False
+555,First Chilean War of 1851-1852,4,Intra-State,Civil war for central control,,False
+555.8,Druze Rebellion of 1852,5,Intra-State,Civil war over local issues,,False
+556,First Turco-Montenegrin War of 1852-1853,5,Intra-State,Civil war over local issues,,False
+557,Peruvian Liberal Revolution of 1853-1855,4,Intra-State,Civil war for central control,,False
+557.1,Epirus Revolt of 1854,5,Intra-State,Civil war over local issues,,False
+557.2,Greek Nationalists of Macedonia War of 1854,5,Intra-State,Civil war over local issues,,False
+557.3,Colombia's Barracks Rebellion of 1854 ,4,Intra-State,Civil war for central control,,False
+557.8,Barquisimeto Rebellion of 1854,4,Intra-State,Civil war for central control,,False
+557.9,Libyan Insurrection of 1855-1856,5,Intra-State,Civil war over local issues,,False
+558,Puebla War of 1855-1856,4,Intra-State,Civil war for central control,,False
+560,Second Peru War of 1856-1858,4,Intra-State,Civil war for central control,,False
+561,Mexican Reform of 1858-1861,4,Intra-State,Civil war for central control,,False
+562,Second Turco-Montenegrin War of 1858,5,Intra-State,Civil war over local issues,,False
+562.5,Constituent Revolution  of 1859,4,Intra-State,Civil war for central control,,False
+563,Venezuelan Federal War of 1859-1863,4,Intra-State,Civil war for central control,,False
+565,Third Colombian War of 1860-1862,4,Intra-State,Civil war for central control,,False
+566,Third Maronite-Druze War of 1860,7,Intra-State,Intercommunal,,False
+567,Taiping Rebellion phase 2 of 1860-1866,4,Intra-State,Civil war for central control,,True
+568,Second Nien Revolt  of 1860-1868,5,Intra-State,Civil war over local issues,,False
+570,Miao Rebellion phase 2 of 1860-1872,5,Intra-State,Civil war over local issues,,False
+571,Panthay Rebellion phase 2 of 1860-1874,5,Intra-State,Civil war over local issues,,False
+572,U.S. Civil War of 1861-1865,5,Intra-State,Civil war over local issues,,False
+573,Third Buenos Aires War of 1861-1862,4,Intra-State,Civil war for central control,,False
+575,Third Turco-Montenegrin War of 1861-1862,5,Intra-State,Civil war over local issues,,False
+576,Tungan Rebellion of 1862-1873,5,Intra-State,Civil war over local issues,,False
+577,Minnesota-Sioux War of 1862,6,Intra-State,Regional internal,,False
+578,Bolivan Perez Rebellion of 1862,4,Intra-State,Civil war for central control,,False
+579,Second Polish War of 1863-1864,5,Intra-State,Civil war over local issues,,False
+580,Second Argentina War of 1863,4,Intra-State,Civil war for central control,,False
+580.5,Bandit War of 1863,5,Intra-State,Civil war over local issues,,False
+581,Sahil Revolt of 1864-1865,5,Intra-State,Civil war over local issues,,False
+582,Xinjiang Muslim Revolt of 1864-1866,5,Intra-State,Civil war over local issues,,False
+582.3,Kanto Insurrection of 1864-1865,4,Intra-State,Civil war for central control,,False
+582.5,Constitutionalist Rebellion of 1865-1866,4,Intra-State,Civil war for central control,,False
+583,First Cretan War of 1866-1868,5,Intra-State,Civil war over local issues,,False
+585,Yellow Cliff Revolt of 1866,5,Intra-State,Civil war over local issues,,False
+586,Third Argentina War of 1866-1867,4,Intra-State,Civil war for central control,,False
+586.5,Kashgar-Khotan War of 1867,7,Intra-State,Intercommunal,,False
+587,Queretaro War of 1867,4,Intra-State,Civil war for central control,,False
+587.8,Venezualan Blue Revolution of 1867-1868,4,Intra-State,Civil war for central control,,False
+588,Meiji Restoration of 1868-1869,4,Intra-State,Civil war for central control,,False
+591,Spainish Liberals War of 1868,4,Intra-State,Civil war for central control,,False
+592,Guerre des Cacos of 1868-1869,4,Intra-State,Civil war for central control,,False
+592.5,Venezuelan Yellow Revolution of 1869-1872,4,Intra-State,Civil war for central control,,False
+592.7,First Kashgarian - Tungan War of 1870,7,Intra-State,Intercommunal,,False
+593, First Entre Rios War of 1870-1871,5,Intra-State,Civil war over local issues,,False
+595,Bolivia-Criollos War of 1870-1871,4,Intra-State,Civil war for central control,,False
+596,Paris Commune War of 1871,4,Intra-State,Civil war for central control,,False
+596.7,Second Kashgarian - Tungan War of 1871-1872,7,Intra-State,Intercommunal,,False
+597,Third Carlist War of 1872-1876,4,Intra-State,Civil war for central control,,False
+597.5,Second Entre Rios War of 1873,5,Intra-State,Civil war over local issues,,False
+598,Catonalist Uprising of 1873-1874,5,Intra-State,Civil war over local issues,,False
+600,Mitre Rebellion of 1874,4,Intra-State,Civil war for central control,,False
+601,Bosnia and Bulgaria Revolt of 1875-1876,5,Intra-State,Civil war over local issues,,False
+602,Diaz Revolt of 1876,4,Intra-State,Civil war for central control,,False
+603,Defeat of Xinjiang Muslims of 1876-1878,5,Intra-State,Civil war over local issues,,False
+605,Fourth Colombian War of 1876-1877,4,Intra-State,Civil war for central control,,False
+606,Ecuador's Veintemilla Revolt of 1876,4,Intra-State,Civil war for central control,,False
+607,Satsuma Rebellion of 1877,4,Intra-State,Civil war for central control,,False
+608,Argentine Indians War of 1878-1879,5,Intra-State,Civil war over local issues,,False
+609,Revindication War of 1879,4,Intra-State,Civil war for central control,,False
+610,Fourth Buenos Aires War of 1880,5,Intra-State,Civil war over local issues,,False
+610.5,Mahdist Rebellion phase 1 of 1881-1882,5,Intra-State,Civil war over local issues,,False
+611,Haitian Civil War of 1883-1884,4,Intra-State,Civil war for central control,,False
+612,Fifth Colombian War of 1884-1885,4,Intra-State,Civil war for central control,,False
+613,Peru's National Problem of 1885,5,Intra-State,Civil war over local issues,,False
+616,First Yemeni Imamate  Rebellion of 1890-1892,5,Intra-State,Civil war over local issues,,False
+616.5,Campos Mutiny of 1890,4,Intra-State,Civil war for central control,,False
+617,Chilean Congressist War of 1891,4,Intra-State,Civil war for central control,,False
+618,Zaili-Jinden Revolt of 1891,4,Intra-State,Civil war for central control,,False
+619,Venezuela's Legalist Revolution of 1892 ,4,Intra-State,Civil war for central control,,False
+620,Brazil Federalists War of 1893-1894,4,Intra-State,Civil war for central control,,False
+621,Brazil Naval War of 1893-1894,4,Intra-State,Civil war for central control,,False
+623,Tonghak Rebellion phase 1 of 1894,5,Intra-State,Civil war over local issues,,True
+625,Third Peru War of 1894-1895,4,Intra-State,Civil war for central control,,False
+626,Sixth Colombian War of 1895,4,Intra-State,Civil war for central control,,False
+627,Ecuador Liberals War of 1895,4,Intra-State,Civil war for central control,,False
+628,First Gansu Muslim War of 1895-1896,5,Intra-State,Civil war over local issues,,False
+630,Druze Rebellion of 1895-1896,5,Intra-State,Civil war over local issues,,False
+630.2,Armenian Hunchak Uprising of 1895-1896,5,Intra-State,Civil war over local issues,,False
+631,Second Cretan War of 1896-1897,5,Intra-State,Civil war over local issues,,False
+631.5,Ecuadorian Conservative Revolt of 1896,4,Intra-State,Civil war for central control,,False
+632,Canudos Revolt of 1896-1897,5,Intra-State,Civil war over local issues,,False
+632.3,Revolución de Queipa of 1898,4,Intra-State,Civil war for central control,,False
+632.6,Second Yemeni Imamate Rebellion of 1898-1899,5,Intra-State,Civil war over local issues,,False
+633,Fourth Venezuelan War of 1899,4,Intra-State,Civil war for central control,,False
+635,Second Yaqui War of 1899-1900,5,Intra-State,Civil war over local issues,,False
+636,Colombian War of the Thousand Days of 1899-1902,4,Intra-State,Civil war for central control,,True
+637,Quintana Roo War of 1899-1901,5,Intra-State,Civil war over local issues,,False
+638,Fifth Venezuelan War of 1901-1903,4,Intra-State,Civil war for central control,,False
+639,Third Yemeni Imamate Rebellion of 1902-1906,5,Intra-State,Civil war over local issues,,False
+640,Ilinden War of 1902-1903,5,Intra-State,Civil war over local issues,,False
+641,First Uruguay War of 1904,4,Intra-State,Civil war for central control,,False
+641.5,Saudi Revolt of 1904 ,5,Intra-State,Civil war over local issues,,False
+643,Bloody Sunday War of 1905-1906,4,Intra-State,Civil war for central control,,False
+645,Romanian Peasant Revolt of 1907,4,Intra-State,Civil war for central control,,False
+646,Hafiziyya Uprising of 1907-1908,4,Intra-State,Civil war for central control,,True
+647,Iranian Constitution War of 1908-1909,4,Intra-State,Civil war for central control,,True
+647.5,Asir-Yemen Revolt of 1909-1911,5,Intra-State,Civil war over local issues,,False
+648,Young Turks Counter-Coup of 1909,4,Intra-State,Civil war for central control,,False
+649,Bluefields Insurrection of 1909-1910,4,Intra-State,Civil war for central control,,False
+650,Second Albanian Revolt of 1910-1912,5,Intra-State,Civil war over local issues,,False
+650.8,Hawran Druze Rebellion of 1910 ,5,Intra-State,Civil war over local issues,,False
+652,Third Mexican War of 1910-1914,4,Intra-State,Civil war for central control,,True
+656,Paraguayan Radical Liberal Rebellion of 1911-1912,4,Intra-State,Civil war for central control,,False
+657,First Nationalist Revolution of 1911,4,Intra-State,Civil war for central control,,False
+657.3,War of  Ecuadorian Generals of 1912,4,Intra-State,Civil war for central control,,False
+658,Cuban Black Uprising of 1912,5,Intra-State,Civil war over local issues,,False
+665,Second Nationalist Revolution of 1913,5,Intra-State,Civil war over local issues,,False
+667,Ecuadorian Civil War of 1913-1916,4,Intra-State,Civil war for central control,,False
+672,China Pai Ling (White Wolf) War of 1914,5,Intra-State,Civil war over local issues,,False
+672.5,Contestado Rebellion of 1914-1915,5,Intra-State,Civil war over local issues,,False
+673,Fourth Mexican War of 1914-1920,4,Intra-State,Civil war for central control,,True
+674,Anti-Monarchy War of 1915-1916,4,Intra-State,Civil war for central control,,False
+675,Russian Turkestan Revolt of 1916-1917,5,Intra-State,Civil war over local issues,,False
+675.5,Negus Mikael Revolt of 1916-1917,4,Intra-State,Civil war for central control,,False
+676,First Yunnan-Sichuan War of 1917,6,Intra-State,Regional internal,,False
+676.5,Southern China Revolt of 1917-1918,5,Intra-State,Civil war over local issues,,False
+677,Russian Civil War of 1917-1920,4,Intra-State,Civil war for central control,,True
+680,Finnish Civil War of 1918,4,Intra-State,Civil war for central control,,True
+681,Western Ukrainian War of 1918-1919,6,Intra-State,Regional internal,,True
+682,Sparticist Rising of 1919,7,Intra-State,Intercommunal,,False
+683,Hungary's Red and White Terror of 1919-1920,4,Intra-State,Civil war for central control,,False
+684,Second Yunnan-Sichuan War of 1920,6,Intra-State,Regional internal,,False
+684.5,Gilan Marxists Rebellion of 1920-1921,4,Intra-State,Civil war for central control,,True
+685,Zhili-Anfu War of 1920,7,Intra-State,Intercommunal,,False
+685.5,Dagestan Rebellion of 1920-1921,5,Intra-State,Civil war over local issues,,False
+686,Green Rebellion of 1920-1921,5,Intra-State,Civil war over local issues,,False
+687,Bashmachi in Turketsan Revolt of 1920-1924,5,Intra-State,Civil war over local issues,,False
+688,Italian Fascist War of 1920-1922,7,Intra-State,Intercommunal,,False
+689,Simko Rebellion of 1921-1922,5,Intra-State,Civil war over local issues,,False
+690,Kronstadt Rebellion of 1921,4,Intra-State,Civil war for central control,,False
+691,Far Eastern Republic War of 1921-1923,4,Intra-State,Civil war for central control,,False
+692,First Zhili-Fengtien War of 1922,4,Intra-State,Civil war for central control,,False
+693,Agrarian Rising of 1923,4,Intra-State,Civil war for central control,,False
+695,De La Huerta Rebellion of 1923-1924,4,Intra-State,Civil war for central control,,False
+696,Honduran Conservative War of 1924,4,Intra-State,Civil war for central control,,False
+697,First Afghan Anti-Reform War of 1924-1925,4,Intra-State,Civil war for central control,,False
+697.3,Second Zhili-Fengtien War  of 1924,4,Intra-State,Civil war for central control,,True
+697.6,Shaikh Said's Rebellion of 1925,5,Intra-State,Civil war over local issues,,False
+697.8,Labrang War of 1925-1926,7,Intra-State,Intercommunal,,False
+698,Anti-Fengtien War of 1925-1926,7,Intra-State,Intercommunal,,False
+700,Chinese Northern Expedition of 1926-1928,4,Intra-State,Civil war for central control,,True
+701,Cristeros Revolt of 1926-1929,4,Intra-State,Civil war for central control,,False
+702,First KMT-CCP War of 1927,7,Intra-State,Intercommunal,,False
+702.5,Second Gansu Muslim Revolt of 1928-1929,5,Intra-State,Civil war over local issues,,False
+703,Ethiopian Northern Resistance of 1928-1930,5,Intra-State,Civil war over local issues,,False
+705,Second Afghan Anti-Reform War of 1928-1929,4,Intra-State,Civil war for central control,,False
+707,Escobar Rebellion of 1929,4,Intra-State,Civil war for central control,,False
+707.3,Ikhwan Revolt of 1929-1930,4,Intra-State,Civil war for central control,,False
+707.5,Central Plains War of 1929-1930,4,Intra-State,Civil war for central control,,False
+708,Ararat Revolt of  1930,5,Intra-State,Civil war over local issues,,False
+709,Campaign Against Ibrahim Beg of 1930-1931,5,Intra-State,Civil war over local issues,,False
+710,Chinese Civil War phase 1 of 1930-1936,4,Intra-State,Civil war for central control,,False
+711,Kumul Rebellion of 1931-1932,6,Intra-State,Regional internal,,False
+711.5,Xinjiang Muslim Revolt of 1931-1934,6,Intra-State,Regional internal,,True
+712,Matanza War of 1932,4,Intra-State,Civil war for central control,,False
+712.5,Mongolian Armed Uprising of 1932,5,Intra-State,Civil war over local issues,,True
+713,Aprista Revolt of 1932,4,Intra-State,Civil war for central control,,False
+715,Paulista Rebellion of 1932,4,Intra-State,Civil war for central control,,False
+715.6,Xinjiang Hui-Uyghur War of 1933-1934,7,Intra-State,Intercommunal,,False
+716,Fukien Revolt of 1933-1934,4,Intra-State,Civil war for central control,,False
+717,Spainish Miners War of 1934,4,Intra-State,Civil war for central control,,False
+718,Spanish Civil War of 1936-1939,4,Intra-State,Civil war for central control,,True
+718.5,Dersim Revolt of 1937-1938,4,Intra-State,Civil war for central control,,False
+719,KMT-CCP Clashes of 1939-1941,4,Intra-State,Civil war for central control,,False
+719.6,Weyane Rebellion of 1943,5,Intra-State,Civil war over local issues,,False
+719.8,Ili Uprising of 1944-1945,5,Intra-State,Civil war over local issues,,False
+720,Greek Civil War round 2  of 1944-1945,4,Intra-State,Civil war for central control,,True
+721,Polish Ukrainians War of 1945-1947,5,Intra-State,Civil war over local issues,,True
+722,Ukrainian Partisans War of 1945-1947,5,Intra-State,Civil war over local issues,,False
+723,Forest Brethren War of 1945-1949,5,Intra-State,Civil war over local issues,,False
+723.5,Chinese Civil War phase 2 of 1945-1950,4,Intra-State,Civil war for central control,,False
+724,Greek Civil War round 3 of 1946-1949,4,Intra-State,Civil war for central control,,True
+726,Taiwan Revolt of 1947,5,Intra-State,Civil war over local issues,,False
+727,Paraguay War of 1947,4,Intra-State,Civil war for central control,,False
+728,Sanaa Revolt of 1948,4,Intra-State,Civil war for central control,,False
+730,Costa Rica War of 1948,4,Intra-State,Civil war for central control,,False
+730.5,First Burmese War of 1948-1950,4,Intra-State,Civil war for central control,,False
+731,La Violencia first wave of 1948-1953,4,Intra-State,Civil war for central control,,False
+732.5,Telengana Rebellion of 1948-1950,4,Intra-State,Civil war for central control,,False
+733,Huk Rebellion of 1950-1954,5,Intra-State,Civil war over local issues,,False
+734,South Moluccas War of 1950,5,Intra-State,Civil war over local issues,,False
+736,Indonesia Darul Islam Rebellion of 1951-1962,4,Intra-State,Civil war for central control,,False
+737,Bolivian National Revolution of 1952,4,Intra-State,Civil war for central control,,False
+739,La Violencia second wave of 1955-1962,4,Intra-State,Civil war for central control,,False
+740,Argentine Military War of 1955,4,Intra-State,Civil war for central control,,False
+740.5,Liangshan Rebellion of 1955-1957,5,Intra-State,Civil war over local issues,,False
+741,Tibetan Khamba Rebellion of 1956-1959,5,Intra-State,Civil war over local issues,,False
+741.5,Naga Insurgency phase 1 of 1956-1957,5,Intra-State,Civil war over local issues,,False
+742,Permesta Rebellion of 1958-1961,4,Intra-State,Civil war for central control,,False
+743,First Lebanese War of 1958,4,Intra-State,Civil war for central control,,True
+745,Cuban Revolution of 1958-1959,4,Intra-State,Civil war for central control,,False
+746,Second Burmese War of 1958-1960,4,Intra-State,Civil war for central control,,False
+747,Mosul Revolt of 1959,4,Intra-State,Civil war for central control,,False
+748,Vietnam War phase 1 of 1960-1965,4,Intra-State,Civil war for central control,,True
+749,First Laotian War of 1960-1968,4,Intra-State,Civil war for central control,,True
+750,First DRC War of 1960-1963,5,Intra-State,Civil war over local issues,,True
+752,First Iraqi Kurds War of 1961-1963,5,Intra-State,Civil war over local issues,,True
+753,Algerian Revolution of 1962,4,Intra-State,Civil war for central control,,False
+755,North Yemen War of 1962-1970,4,Intra-State,Civil war for central control,,True
+757,First Ogaden War of 1963-1964,5,Intra-State,Civil war over local issues,,True
+758,First South Sudan War of 1963-1972,5,Intra-State,Civil war over local issues,,True
+760,First Rwanda War of 1963-1964,4,Intra-State,Civil war for central control,,False
+761,Second DRC War of 1964-1965,5,Intra-State,Civil war over local issues,,False
+762,Third DRC Rebellion of 1964-1965,4,Intra-State,Civil war for central control,,True
+765,Second Iraqi Kurds War of 1965-1966,5,Intra-State,Civil war over local issues,,False
+766,Dominican Republic War of 1965,4,Intra-State,Civil war for central control,,True
+767,Third Burmese War of 1965-1993,4,Intra-State,Civil war for central control,,True
+768,First Uganda War of 1966,5,Intra-State,Civil war over local issues,,False
+770,First Guatemala War of 1966-1968,4,Intra-State,Civil war for central control,,True
+771.5,First West Papua War of 1967-1968,5,Intra-State,Civil war over local issues,,False
+772,Cultural Revolution phase 1 of 1967,6,Intra-State,Regional internal,,False
+775,Biafra War of 1967-1970,5,Intra-State,Civil war over local issues,,False
+776,Cultural Revolution phase 2 of 1967-1968,5,Intra-State,Civil war over local issues,,False
+776.3,First Chad Rebellion of 1968-1971,4,Intra-State,Civil war for central control,,True
+777,Third Iraqi Kurds War of 1968-1970,5,Intra-State,Civil war over local issues,,False
+778,Naxalite Rebellion of 1970-1971,4,Intra-State,Civil war for central control,,False
+780,Black September War of 1970,4,Intra-State,Civil war for central control,,True
+781,Second Guatemala War of 1970-1971,4,Intra-State,Civil war for central control,,False
+782,Pakistan - Bengal War of 1971,5,Intra-State,Civil war over local issues,,True
+783,First Sri Lanka-JVP War of 1971,4,Intra-State,Civil war for central control,,False
+785,First Khmer Rouge War of 1971-1975,4,Intra-State,Civil war for central control,,True
+786,First Philippine - Moro War of 1972-1981,5,Intra-State,Civil war over local issues,,False
+787,Thai Communist Insurgency of 1972-1973,4,Intra-State,Civil war for central control,,False
+788,Eritrean Split of 1972-1974,7,Intra-State,Intercommunal,,False
+789,First Burundi War of 1972,4,Intra-State,Civil war for central control,,False
+792,Baluchi Separatists War of 1973-1977,5,Intra-State,Civil war over local issues,,False
+793,Chilean Coup of 1973,4,Intra-State,Civil war for central control,,False
+795,Dhofar Rebellion phase 2 of 1973-1975,5,Intra-State,Civil war over local issues,,True
+797,Fourth Iraqi  Kurds War of 1974-1975,5,Intra-State,Civil war over local issues,,True
+798,Eritrean War of 1975-1979,5,Intra-State,Civil war over local issues,,True
+800,Argentine Leftists War of 1975-1976,4,Intra-State,Civil war for central control,,False
+801,Second Lebanese War of 1975-1976,7,Intra-State,Intercommunal,,True
+803,Second Laotian War of 1976-1979,5,Intra-State,Civil war over local issues,,True
+804,Angolan Control War of 1976-1991,4,Intra-State,Civil war for central control,,True
+804.5,Rhodesia War of 1976-1979,4,Intra-State,Civil war for central control,,False
+805,Second Ogaden War phase 1 of 1976-1977,5,Intra-State,Civil war over local issues,,True
+805.3,Anti-Nimeiry Revolt of 1976,4,Intra-State,Civil war for central control,,False
+806,East Timorese War phase 3 of 1976-1979,5,Intra-State,Civil war over local issues,,False
+806.3,Second West Papua War of 1977-1978,5,Intra-State,Civil war over local issues,,False
+806.8,Chad - FAP War of 1977-1978,4,Intra-State,Civil war for central control,,True
+807,Third Lebanese War of 1978,7,Intra-State,Intercommunal,,True
+808,Second Ogaden War phase 3 of 1978-1980,5,Intra-State,Civil war over local issues,,True
+809,Saur Revolution of 1978,4,Intra-State,Civil war for central control,,False
+810,Zaire-FNLC War of 1978,4,Intra-State,Civil war for central control,,True
+811,Third Guatemala War of 1978-1983,4,Intra-State,Civil war for central control,,False
+812,Mujahideen Uprising of 1978-1980,4,Intra-State,Civil war for central control,,True
+815,Sandinista Rebellion of 1978-1979,4,Intra-State,Civil war for central control,,False
+815.5,Iranian Islamic Revolution of 1978-1979,4,Intra-State,Civil war for central control,,False
+816,Anti-Khomeini Coalition War of 1979-1983,4,Intra-State,Civil war for central control,,False
+817,El Salvador War of 1979-1992,4,Intra-State,Civil war for central control,,False
+820,Chad - FAN War of 1980-1984,5,Intra-State,Civil war over local issues,,True
+823,Nigeria - Muslim War of 1980-1981,5,Intra-State,Civil war over local issues,,False
+824,First Philippines - NPA War of 1981-1992,4,Intra-State,Civil war for central control,,False
+825,Mozambique War of 1981-1992,4,Intra-State,Civil war for central control,,True
+826,Tigrean & Eritrean War of 1982-1991,5,Intra-State,Civil war over local issues,,False
+826.5,Hama Uprising of 1982,4,Intra-State,Civil war for central control,,False
+828,Contra War of 1982-1988,4,Intra-State,Civil war for central control,,False
+828.3,Uganda-NRA War of 1982-1986,4,Intra-State,Civil war for central control,,False
+829,Shining Path War of 1982-1992,4,Intra-State,Civil war for central control,,False
+833,Fourth Lebanese War of 1983-1984,4,Intra-State,Civil war for central control,,True
+834,Second South Sudan War of 1983-2002,4,Intra-State,Civil war for central control,,True
+835,First Sri Lanka Tamil War of 1983-1987,5,Intra-State,Civil war over local issues,,False
+837,Indian Golden Temple War of 1984,5,Intra-State,Civil war over local issues,,False
+838, First Turkish Kurds War of 1984-1986,5,Intra-State,Civil war over local issues,,False
+840,Fifth Iraqi  Kurds War of 1985-1988,5,Intra-State,Civil war over local issues,,True
+842,South Yemen War of 1986,4,Intra-State,Civil war for central control,,False
+843,Holy Spirit Movement War of 1986-1987,4,Intra-State,Civil war for central control,,False
+845,Second Sri Lanka-JVP War of 1987-1989,4,Intra-State,Civil war for central control,,False
+845.5,Fourth Guatemala of 1987 to 1990,4,Intra-State,Civil war for central control,,False
+846,Inkatha-ANC War of 1987-1994,7,Intra-State,Intercommunal,,False
+848,First Somalia War of 1988-1991,4,Intra-State,Civil war for central control,,False
+849,FARC/ELN War of 1988-present,4,Intra-State,Civil war for central control,,False
+850,Fifth Lebanese War of 1989-1990,4,Intra-State,Civil war for central control,,True
+851,Second Afghan Civil War of 1989-1992,4,Intra-State,Civil war for central control,,False
+852,Chad - Deby War of 1989-1990,4,Intra-State,Civil war for central control,,False
+853,Punjab Rebellion of 1989-1993,5,Intra-State,Civil war over local issues,,False
+854,Second Khmer Rouge War of 1989-1991,4,Intra-State,Civil war for central control,,False
+856,Romanian War of 1989,4,Intra-State,Civil war for central control,,False
+857,First Liberian War of 1989-1990,4,Intra-State,Civil war for central control,,True
+858,First Aceh War of 1990-1991,5,Intra-State,Civil war over local issues,,False
+859,Second Sri Lanka Tamil War of 1990-2001,5,Intra-State,Civil war over local issues,,False
+860,Bougainville Secessionist War of 1990-1991,5,Intra-State,Civil war over local issues,,False
+862,Iraqi Shiite Rebellion of 1991,4,Intra-State,Civil war for central control,,False
+862.1,Sixth Iraqi Kurds War of 1991,5,Intra-State,Civil war over local issues,,False
+863,First Sierra Leone War of 1991-1996,4,Intra-State,Civil war for central control,,True
+864,Croatian Independence War of 1991-1992,5,Intra-State,Civil war over local issues,,False
+865,Turkey-PKK War of 1991-1999,5,Intra-State,Civil war over local issues,,False
+865.8,Second Somalia War of 1991-1997,4,Intra-State,Civil war for central control,,True
+866,SPLM/A Division (Dinka-Nuer) War of 1991-1992,7,Intra-State,Intercommunal,,False
+868,Jukun - Tiv War of 1991-1992,7,Intra-State,Intercommunal,,False
+871,Georgia War of 1991-1993,4,Intra-State,Civil war for central control,,False
+872,Nagorno-Karabakh War of 1991-1993,5,Intra-State,Civil war over local issues,,True
+873,Dniestrian Independence War of 1991-1992,5,Intra-State,Civil war over local issues,,True
+874,Kashmir Insurgency of 1992-2005,5,Intra-State,Civil war over local issues,,False
+874.5,First Somaliland War of 1992,7,Intra-State,Intercommunal,,False
+875,Algeria's Islamic Front War of 1992-2002,4,Intra-State,Civil war for central control,,False
+876,Tajikistan War of 1992-1997,4,Intra-State,Civil war for central control,,True
+877,Bosnian-Serb Rebellion of 1992-1995,5,Intra-State,Civil war over local issues,,True
+877.5,Afghanistan Post-Communist War of 1992-2001,4,Intra-State,Civil war for central control,,False
+878,Abkhazia Revolt of 1992-1994,5,Intra-State,Civil war over local issues,,True
+879,Second Liberian War of 1992-1996,4,Intra-State,Civil war for central control,,True
+880,Angolan War of the Cities of 1992-1994,4,Intra-State,Civil war for central control,,False
+881,Third Khmer Rouge War of 1993-1998,4,Intra-State,Civil war for central control,,False
+882,Masisi War of 1993,7,Intra-State,Intercommunal,,False
+883,Second Burundi War of 1993-1998,4,Intra-State,Civil war for central control,,False
+885,South Yemeni Secessionist Revolt of 1994,5,Intra-State,Civil war over local issues,,False
+886,Second Rwanda War of 1994,4,Intra-State,Civil war for central control,,False
+887,First Iraqi Kurds Internecine War of 1994-1995,7,Intra-State,Intercommunal,,False
+887.5,Second Somaliland War of 1994 to 1995,7,Intra-State,Intercommunal,,False
+888,First Chechnya War of 1994-1996,5,Intra-State,Civil war over local issues,,False
+891,Croatia-Krajina War of 1995,5,Intra-State,Civil war over local issues,,False
+893,Seventh Iraqi Kurds War of 1996,5,Intra-State,Civil war over local issues,,False
+895,Zaire - AFDL War of 1996-1997,4,Intra-State,Civil war for central control,,True
+896,Third Rwanda War of 1997-1998,4,Intra-State,Civil war for central control,,False
+897,First Congo-Brazzaville War of 1997,4,Intra-State,Civil war for central control,,True
+897.5,Second Iraqi Kurds Internecine War of 1997,7,Intra-State,Intercommunal,,False
+898,Second Sierra Leone War of 1998-2000,4,Intra-State,Civil war for central control,,True
+900,Kosovo Independence War of 1998-1999,5,Intra-State,Civil war over local issues,,False
+902,Guinea-Bissau Military War of 1998-1999,4,Intra-State,Civil war for central control,,True
+905,Africa's World War of 1998-2002,4,Intra-State,Civil war for central control,,True
+906,Chad-Togoimi Revolt of 1998-2000,4,Intra-State,Civil war for central control,,False
+907,Third Angolan War of 1998-2002,4,Intra-State,Civil war for central control,,True
+908,Second Congo-Brazzaville War of 1998-1999,4,Intra-State,Civil war for central control,,True
+910,Maluku War of 1999-2002,7,Intra-State,Intercommunal,,False
+912,Second Aceh War of 1999-2004,5,Intra-State,Civil war over local issues,,False
+913,Oromo Liberation War of 1999,5,Intra-State,Civil war over local issues,,False
+915,Second Chechen War of 1999-2003,5,Intra-State,Civil war over local issues,,False
+916,Second Philippine-Moro War of 2000-2001,5,Intra-State,Civil war over local issues,,False
+917,Guinean War of 2000-2001,4,Intra-State,Civil war for central control,,False
+918,Third Burundi War of 2001-2003,4,Intra-State,Civil war for central control,,True
+920,Fourth Rwanda War of 2001,4,Intra-State,Civil war for central control,,False
+921,Nepal Maoist Insurgency of 2001-2006,4,Intra-State,Civil war for central control,,False
+922,Liberia-LURD War of 2002-2003,4,Intra-State,Civil war for central control,,False
+925,Cote d'Ivoire Military War of 2002-2003,4,Intra-State,Civil war for central control,,True
+926,Third Philippine-Moro War of 2003,5,Intra-State,Civil war over local issues,,False
+927,Darfur Rebellion of 2003-2006,5,Intra-State,Civil war over local issues,,False
+932,First Waziristan War of 2004-2006,5,Intra-State,Civil war over local issues,,True
+933,Second Nigeria Christian - Muslim War of 2004,7,Intra-State,Intercommunal,,False
+935,First Al-Houthi Rebellion of 2004-2005,4,Intra-State,Civil war for central control,,False
+936,Second Philippine - NPA War of 2005-2006,4,Intra-State,Civil war for central control,,False
+937,Chad-United Opposition War of 2005-2008,4,Intra-State,Civil war for central control,,True
+940,Third Sri Lanka Tamil War of 2006-2009,5,Intra-State,Civil war over local issues,,False
+940.8,Third Somalia War of 2006-2012,4,Intra-State,Civil war for central control,,True
+941,Second Al-Houthi Rebellion of 2007-2008,4,Intra-State,Civil war for central control,,False
+942,Second Waziristan War of 2007-present,5,Intra-State,Civil war over local issues,,True
+971,Iraqi Sunni Revolt of 2010-2014,4,Intra-State,Civil war for central control,,True
+973,Second Cote d'Ivoire War of 2011,4,Intra-State,Civil war for central control,,True
+976,Libyan Civil War of 2011,4,Intra-State,Civil war for central control,,True
+978,Sudan Revolutionary Front Rebellion of 2011-present,4,Intra-State,Civil war for central control,,False
+979,Syrian Arab Spring War of 2011 to present,4,Intra-State,Civil war for central control,,True
+980,Kachin Rebellion of 2011-2013,5,Intra-State,Civil war over local issues,,False
+985,North Mali War of 2012-2013,5,Intra-State,Civil war over local issues,,True
+990,Central African Republic War of 2012-2013,4,Intra-State,Civil war for central control,,True
+990.4,Boko Haram in Nigeria of 2013 - present,4,Intra-State,Civil war for central control,,True
+991,South Sudan War of 2013 to present,4,Intra-State,Civil war for central control,,True
+991.4,Afghan-Taliban War of 2014-ongoing,4,Intra-State,Civil war for central control,,True
+991.5,ISIS-al Nusra Front War of 2014,7,Intra-State,Intercommunal,,False
+992,Third Al-Houthi Rebellion of 2014-present,4,Intra-State,Civil war for central control,,False
+992.5,Somali-Al-Shabaab war of 2014-present,4,Intra-State,Civil war for central control,,True
+993,Donbas War of 2014-present,5,Intra-State,Civil war over local issues,,True
+994,Second Libyan Civil War of 2014-present,4,Intra-State,Civil war for central control,,False
+997,Rada'a War of 2014-present,7,Intra-State,Intercommunal,,False
+300,Allied Bombardment of Algiers,3,Extra-State,Imperial War,True,
+301,Ottoman-Wahhabi,3,Extra-State,Imperial War,False,
+302,Liberation of Chile,2,Extra-State,Colonial War,False,
+303,First Bolivar Expedition,2,Extra-State,Colonial War,False,
+304,Mexican Independence,2,Extra-State,Colonial War,False,
+305,British-Kandyan,2,Extra-State,Colonial War,False,
+306,British-Maratha,2,Extra-State,Colonial War,False,
+307,Ottoman Conquest of Sudan,3,Extra-State,Imperial War,False,
+308,Second Bolivar Expedition,2,Extra-State,Colonial War,False,
+309,Turco-Persian,3,Extra-State,Imperial War,False,
+310,First British-Burmese,3,Extra-State,Imperial War,False,
+311,First British-Ashanti,3,Extra-State,Imperial War,False,
+312,Liberation of Peru,2,Extra-State,Colonial War,False,
+313,Dutch - Javanese,2,Extra-State,Colonial War,False,
+314,British-Bharatpuran,2,Extra-State,Colonial War,False,
+315,Brazil-Argentine,3,Extra-State,Imperial War,False,
+316,Russo-Persian,3,Extra-State,Imperial War,False,
+317,Spanish Reconquest of Mexico,3,Extra-State,Imperial War,False,
+319,French Occupation of Algiers,3,Extra-State,Imperial War,False,
+320,Ottoman-Bilmez-Asiri War,3,Extra-State,Imperial War,False,
+321,First British-Zulu,3,Extra-State,Imperial War,False,
+322,First British-Afghan,3,Extra-State,Imperial War,False,
+323,First Opium,3,Extra-State,Imperial War,False,
+324,First Franco-Algerian,3,Extra-State,Imperial War,False,
+325,Peru-Bolivian,3,Extra-State,Imperial War,False,
+326,British-Sind,3,Extra-State,Imperial War,False,
+327,Uruguay War,3,Extra-State,Imperial War,True,
+329,Gwalior,3,Extra-State,Imperial War,False,
+330,Franco-Moroccan,3,Extra-State,Imperial War,False,
+331,First British-Sikh,3,Extra-State,Imperial War,False,
+332,Cracow Revolt,3,Extra-State,Imperial War,True,
+333,First British-Xhosa,3,Extra-State,Imperial War,False,
+334,First Dutch-Bali,3,Extra-State,Imperial War,False,
+335,Second British-Sikh,3,Extra-State,Imperial War,False,
+336,Chinese Pirates,3,Extra-State,Imperial War,False,
+337,Second British-Xhosa,2,Extra-State,Colonial War,False,
+338,Ottoman-Yam,3,Extra-State,Imperial War,False,
+339,Second British-Burmese,3,Extra-State,Imperial War,False,
+340,French-Tukulor War,3,Extra-State,Imperial War,False,
+341,British-Santal,2,Extra-State,Colonial War,False,
+342,Hodeida Seige,2,Extra-State,Colonial War,False,
+343,Second Opium,3,Extra-State,Imperial War,True,
+345,French Conquest of Kabylia,2,Extra-State,Colonial War,False,
+347,Indian Mutiny,2,Extra-State,Colonial War,False,
+349,First Franco-Vietnamese,3,Extra-State,Imperial War,False,
+350,Netherlands-Bone,3,Extra-State,Imperial War,False,
+351,Argentine-Buenos Aires,3,Extra-State,Imperial War,False,
+352,Garibaldi Expedition,3,Extra-State,Imperial War,False,
+353,Spanish-Santo Dominican,2,Extra-State,Colonial War,False,
+355,British-Maori,2,Extra-State,Colonial War,False,
+356,Shimonoseki War,3,Extra-State,Imperial War,True,
+357,British Umbeyla Campaign,3,Extra-State,Imperial War,False,
+359,Russian-Kokand,3,Extra-State,Imperial War,False,
+360,British-Bhutanese,3,Extra-State,Imperial War,False,
+361,Russian-Bukharan,3,Extra-State,Imperial War,False,
+362,British-Ethiopian,3,Extra-State,Imperial War,False,
+363,First Spanish-Cuban,2,Extra-State,Colonial War,False,
+364,Attack on Bahr el-Ghazal,3,Extra-State,Imperial War,False,
+365,Ottoman Conquest of Arabia,3,Extra-State,Imperial War,False,
+366,Second Franco-Algerian,2,Extra-State,Colonial War,False,
+367,Second British-Ashanti,3,Extra-State,Imperial War,False,
+369,Second Franco-Vietnamese,3,Extra-State,Imperial War,False,
+370,First Dutch-Achinese,3,Extra-State,Imperial War,False,
+371,Kokand Rebellion,3,Extra-State,Imperial War,False,
+372,Egyptian-Ethiopian,3,Extra-State,Imperial War,False,
+373,Serbian-Turkish,3,Extra-State,Imperial War,False,
+374,Third British-Xhosa,2,Extra-State,Colonial War,False,
+375,Egypt-Sudanese Slavers,3,Extra-State,Imperial War,False,
+376,Russo-Turkoman,3,Extra-State,Imperial War,False,
+377,Austrian-Bosnian,3,Extra-State,Imperial War,False,
+379,Second British-Afghan,3,Extra-State,Imperial War,False,
+380,Second British-Zulu,3,Extra-State,Imperial War,False,
+381,Gun War,2,Extra-State,Colonial War,False,
+382,First Boer War,2,Extra-State,Colonial War,False,
+383,Franco-Tunisian,3,Extra-State,Imperial War,False,
+384,First British-Mahdi,2,Extra-State,Colonial War,True,
+385,Third Franco-Vietnamese,3,Extra-State,Imperial War,True,
+386,First Franco-Madagascan,3,Extra-State,Imperial War,False,
+387,Third British-Burmese,3,Extra-State,Imperial War,False,
+389,French-Mandinka,3,Extra-State,Imperial War,False,
+390,Russo-Afghan,3,Extra-State,Imperial War,False,
+391,Serbian-Bulgarian,3,Extra-State,Imperial War,False,
+392,First Italian-Ethiopian,3,Extra-State,Imperial War,False,
+393,Zambezi Conquest,3,Extra-State,Imperial War,False,
+394,First Franco-Dahomeyan,3,Extra-State,Imperial War,False,
+395,Franco-Jolof,3,Extra-State,Imperial War,False,
+396,Second Franco-Dahomeyan,3,Extra-State,Imperial War,False,
+397,Belgian-Tib,3,Extra-State,Imperial War,False,
+398,Third British-Ashanti,3,Extra-State,Imperial War,False,
+399,Melilla War,3,Extra-State,Imperial War,False,
+400,Mahdist-Italian,3,Extra-State,Imperial War,False,
+401,Second Franco-Madagascan,3,Extra-State,Imperial War,False,
+402,Second Dutch-Bali,3,Extra-State,Imperial War,False,
+403,Portuguese-Gaza Empire,3,Extra-State,Imperial War,False,
+404,Second Spanish-Cuban,2,Extra-State,Colonial War,False,
+405,Japan-Taiwanese,2,Extra-State,Colonial War,False,
+406,Mazrui Rebellion,3,Extra-State,Imperial War,False,
+407,Second Italian-Ethiopian,3,Extra-State,Imperial War,False,
+409,Second British-Mahdi,3,Extra-State,Imperial War,False,
+410,Spanish-Philippine,2,Extra-State,Colonial War,False,
+411,British-South Nigerian,3,Extra-State,Imperial War,False,
+412,British-Pathan,2,Extra-State,Colonial War,False,
+413,Hut Tax,2,Extra-State,Colonial War,False,
+414,American-Philippine,2,Extra-State,Colonial War,False,
+415,French Conquest of Chad,3,Extra-State,Imperial War,False,
+416,Second Boer War,3,Extra-State,Imperial War,False,
+417,Last Ashanti War,3,Extra-State,Imperial War,False,
+419,Somali Rebellion,2,Extra-State,Colonial War,True,
+420,Bailundu Revolt,3,Extra-State,Imperial War,False,
+421,Kuanhama Rebellion,3,Extra-State,Imperial War,False,
+422,British Conquest of Kano & Sokoto,3,Extra-State,Imperial War,False,
+423,South West African Revolt,2,Extra-State,Colonial War,False,
+424,Second Dutch-Achinese,2,Extra-State,Colonial War,False,
+425,Younghusband Expedition,3,Extra-State,Imperial War,False,
+426,Maji-Maji Revolt,2,Extra-State,Colonial War,False,
+427,Sokoto Uprising,2,Extra-State,Colonial War,False,
+429,Third British-Zulu,2,Extra-State,Colonial War,False,
+430,Dembos War,3,Extra-State,Imperial War,False,
+431,Anti-Foreign Revolt,3,Extra-State,Imperial War,False,
+432,Japan-Korean Guerrillas,2,Extra-State,Colonial War,False,
+433,French Conquest of Wadai,3,Extra-State,Imperial War,False,
+434,French-Berber,2,Extra-State,Colonial War,False,
+435,First Sino-Tibetan,2,Extra-State,Colonial War,False,
+436,Moroccan Berber,2,Extra-State,Colonial War,True,
+437,Moro Rebellion,2,Extra-State,Colonial War,False,
+440,Second Sino-Tibetan,3,Extra-State,Imperial War,False,
+441,Caco Revolt,2,Extra-State,Colonial War,False,
+442,Third British-Afghan,3,Extra-State,Imperial War,False,
+443,First British-Waziristan,3,Extra-State,Imperial War,False,
+444,Franco-Syrian,3,Extra-State,Imperial War,False,
+445,Iraqi-British,2,Extra-State,Colonial War,False,
+446,Conquest of Mongolia,3,Extra-State,Imperial War,True,
+447,Italian-Sanusi,2,Extra-State,Colonial War,False,
+449,Rif Rebellion,2,Extra-State,Colonial War,True,
+450,Moplah Rebellion,2,Extra-State,Colonial War,False,
+451,Franco-Druze,2,Extra-State,Colonial War,False,
+452,Yen Bai Uprising,2,Extra-State,Colonial War,False,
+453,Saya San's Rebellion,2,Extra-State,Colonial War,False,
+454,British-Palestinian,2,Extra-State,Colonial War,False,
+455,Second British-Waziristan,3,Extra-State,Imperial War,False,
+456,Indonesian,2,Extra-State,Colonial War,True,
+457,French-Indochina,2,Extra-State,Colonial War,False,
+459,Third Franco-Madagascan,2,Extra-State,Colonial War,False,
+460,Malayan Rebellion,2,Extra-State,Colonial War,False,
+461,Indo-Hyderabad,3,Extra-State,Imperial War,False,
+462,Third Sino-Tibetan,3,Extra-State,Imperial War,False,
+463,Franco-Tunisian,2,Extra-State,Colonial War,False,
+464,British-Mau Mau,2,Extra-State,Colonial War,False,
+465,Moroccan Independence,2,Extra-State,Colonial War,False,
+466,Third Franco-Algerian,2,Extra-State,Colonial War,False,
+467,French-Cameroon,2,Extra-State,Colonial War,False,
+469,Angolan-Portuguese,2,Extra-State,Colonial War,False,
+471,Mozambique-Portuguese,2,Extra-State,Colonial War,False,
+472,"East Timorese, Phase 2",3,Extra-State,Imperial War,False,
+473,Namibian,2,Extra-State,Colonial War,False,
+474,Western Saharan,3,Extra-State,Imperial War,True,
+475,Khmer Insurgency,3,Extra-State,Imperial War,True,
+476,Soviet Quagmire,3,Extra-State,Imperial War,True,
+477,First PKK in Iraq,3,Extra-State,Imperial War,False,
+479,Second PKK in Iraq,3,Extra-State,Imperial War,False,
+480,Al Aqsa Intifada,2,Extra-State,Colonial War,False,
+481,Afghan Resistance,3,Extra-State,Imperial War,True,
+482,Iraqi Resistance,3,Extra-State,Imperial War,True,
+1500,First Maori Tribal War,8,Non-State,occur in non-state territory,,
+1501,Shaka Zulu-Bantu War,8,Non-State,occur in non-state territory,,
+1502,Burma-Assam War,8,Non-State,occur in non-state territory,,
+1503,Buenos Aires War,8,Non-State,occur in non-state territory,,
+1505,Second Maori Tribal War,8,Non-State,occur in non-state territory,,
+1506,Siam-Kedah War,8,Non-State,occur in non-state territory,,
+1508,China-Kashgaria War,8,Non-State,occur in non-state territory,,
+1509,Mexico-Yaqui Indian War,8,Non-State,occur in non-state territory,,
+1510,Central American Confederation War,8,Non-State,occur in non-state territory,,
+1511,Viang Chan- Siamese War,8,Non-State,occur in non-state territory,,
+1512,Peru-Gran Colombia War,8,Non-State,occur in non-state territory,,
+1513,Argentine War for Unity,8,Non-State,occur in non-state territory,,
+1514,Sayyid Said War,8,Non-State,occur in non-state territory,,
+1515,China-Kokand War,8,Non-State,occur in non-state territory,,
+1516,Siam-Cambodia-Vietnam War,8,Non-State,occur in non-state territory,,
+1518,Argentina-Ranqueles Indian War,8,Non-State,occur in non-state territory,,
+1520,Bolivia Conquest of Peru,8,Non-State,occur in non-state territory,,
+1521,Boer-Matabele War,8,Non-State,occur in non-state territory,,
+1523,Dissolution of the Bolivia-Peru Confederation,8,Non-State,occur in non-state territory,,
+1524,Persian Siege of Heart,8,Non-State,occur in non-state territory,,
+1525,Boer-Zulu War,8,Non-State,occur in non-state territory,,
+1527,Anti-Rosas War,8,Non-State,occur in non-state territory,,
+1528,Dissolution of  the Central American Confederation,8,Non-State,occur in non-state territory,,
+1530,Dogra-Tibet War,8,Non-State,occur in non-state territory,,
+1531,First Haiti-Santo Domingo War,8,Non-State,occur in non-state territory,,
+1533,War of  Seven Khojas,8,Non-State,occur in non-state territory,,
+1534,Taiping Rebellion Phase 1,8,Non-State,occur in non-state territory,,
+1535,First Tukulor War,8,Non-State,occur in non-state territory,,
+1536,Kashmir-Dards of Chilas War,8,Non-State,occur in non-state territory,,
+1537,Han-Miao War Phase 1,8,Non-State,occur in non-state territory,,
+1538,Second Haiti-Santo Domingo War,8,Non-State,occur in non-state territory,,
+1539,Han-Nien War,8,Non-State,occur in non-state territory,,
+1540,Filibuster War,8,Non-State,occur in non-state territory,,
+1541,Han-Panthay War Phase 1,8,Non-State,occur in non-state territory,,
+1542,First Zulu Internecine War,8,Non-State,occur in non-state territory,,
+1543,Kucha and Khoja Uprising,8,Non-State,occur in non-state territory,,
+1544,First Boer-Basuto War,8,Non-State,occur in non-state territory,,
+1545,First Ethiopian War,8,Non-State,occur in non-state territory,,
+1546,Second Tukulor War,8,Non-State,occur in non-state territory,,
+1548,Transvaal War,8,Non-State,occur in non-state territory,,
+1550,Central American War,8,Non-State,occur in non-state territory,,
+1551,First Australian Aboriginal War,8,Non-State,occur in non-state territory,,
+1552,Second Boer-Basuto War,8,Non-State,occur in non-state territory,,
+1553,Second Ethiopian War,8,Non-State,occur in non-state territory,,
+1554,Uruguay Colorados-Blancos War,8,Non-State,occur in non-state territory,,
+1556,Second Zulu Internecine War,8,Non-State,occur in non-state territory,,
+1557,Oman-Ibadi War,8,Non-State,occur in non-state territory,,
+1558,Second Australian Aboriginal War,8,Non-State,occur in non-state territory,,
+1559,Ethiopia-Mahdi War,8,Non-State,occur in non-state territory,,
+1560,German East Africa Company War,8,Non-State,occur in non-state territory,,
+1561,Rabih Zubayr-Bornu War,8,Non-State,occur in non-state territory,,
+1567,First Nejd-Hejaz War,8,Non-State,occur in non-state territory,,
+1568,Second Nejd-Hejaz War,8,Non-State,occur in non-state territory,,
+1570,Partition Communal War,8,Non-State,occur in non-state territory,,
+1571,Hyderabad War,8,Non-State,occur in non-state territory,,
+1572,Palestine War,8,Non-State,occur in non-state territory,,
+1573,Cheju Rebellion,8,Non-State,occur in non-state territory,,
+1574,Rwandan Social Revolution,8,Non-State,occur in non-state territory,,
+1577,Dhofar Rebellion Phase 1,8,Non-State,occur in non-state territory,,
+1581,Angola Guerilla War,8,Non-State,occur in non-state territory,,
+1582,East Timorese War Phase 1,8,Non-State,occur in non-state territory,,
+1594,Hemda-Lendu War,9,Non-State,occur across state borders,,

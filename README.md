@@ -23,19 +23,23 @@ This project builds on previous work I have done with the Correlates of War data
 Steps to recreate environment used for this repo:
 
 1. Create new environment with conda, e.g. named "cow"
-    - `conda create --name cow` 
+    - `conda create --name cow python=3.9` 
     - `conda activate cow`
 2. Install streamlit (and a bunch of other packages that are dependencies)
     - `conda install -c conda-forge streamlit`
 3. Install plotly (according to the [documentation](https://plotly.com/python/getting-started/#installation))
-    - `conda install -c plotly plotly=5.1.0`
+    - `conda install -c plotly plotly=5.3.1`
     - `conda install -c plotly plotly-geo=1.0.0`
-4. Install sqlalchemy
-    - `conda install -c conda-forge sqlalchemy`
+4. Install sqlmodel
+    - `conda install -c conda-forge sqlmodel`
 5. Install black (for code formatting)
     - `conda install -c conda-forge black`
 6. Install jupyterlab
     - `conda install -c conda-forge jupyterlab`
+
+And add the kernel so we can work in Jupyter Lab:
+
+`python -m ipykernel install --user --name cow`
 
 ## Repo Structure
 
