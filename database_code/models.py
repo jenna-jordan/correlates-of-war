@@ -35,7 +35,7 @@ class War_Type(Base):
     __tablename__ = "war_type"
 
     type_code = Column(Integer(1), primary_key=True)
-    war_type = Column(String(11))
+    war_category = Column(String(11))
     war_subtype = Column(Text)
     type_description = Column(Text)
 
