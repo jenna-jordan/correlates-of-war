@@ -45,10 +45,10 @@ And add the kernel so we can work in Jupyter Lab:
 
 ### Directories
 
-- All datasets are kept in the `Data` directory. Raw datasets - downloaded directly from the source and not altered in any way - are kept in the `Data/Raw` subdirectory.
-- All data documentation is kept in the `Documentation` directory. Raw documentation - PDFs downloaded directly from the source and not altered in any way - are kept in the `Documentation/Raw` subdirectory.
-- Code for wrangling data (manipulating it into the format needed by the database) is kept in the `Wrangle` directory
-- Code for creating and manipulating the database is kept in the `Database` directory
+- All datasets are kept in the `data` directory. Raw datasets - downloaded directly from the source and not altered in any way - are kept in the `data/raw` subdirectory. Datasets produced by my wrangling code (and destined to be added to the database) are kept in the `data/processed` subdirectory.
+- All data documentation is kept in the `docs` directory. This includes both the official CoW PDF documentation (`docs/Official_CoW_Docs`) and any documentation I create.
+- Code for wrangling data (manipulating it into the format needed by the database) is kept in the `wrangling_code` directory. This is usually done in Jupyter Notebooks
+- Code for creating and manipulating the database is kept in the `database_code` directory
 
 ### Files in root directory
 
@@ -57,7 +57,7 @@ And add the kernel so we can work in Jupyter Lab:
 
 ## Datasets
 
-All datasets were downloaded from the [Correlates of War website](https://correlatesofwar.org/). The raw datasets were saved to `Data/Raw`. Accompanying documentation were saved to `Documentation/Raw`. These files have not been altered in any way. The requested citations for these datasets have been included in `CITATIONS.md`.
+All datasets were downloaded from the [Correlates of War website](https://correlatesofwar.org/). The raw datasets were saved to `data/Raw`. Accompanying documentation were saved to `docs/Official_CoW_Docs`. These files have not been altered in any way. The requested citations for these datasets have been included in `CITATIONS.md`.
 
 - COW Country Codes
     - Downloaded from: `https://correlatesofwar.org/data-sets/cow-country-codes`
