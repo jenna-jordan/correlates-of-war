@@ -31,6 +31,15 @@ class Polity_Dates(Base):
     __table_args__ = (ForeignKeyConstraint(["polity"], ["polity.id"]),)
 
 
+class War_Type(Base):
+    __tablename__ = "war_type"
+
+    type_code = Column(Integer(1), primary_key=True)
+    war_type = Column(String(11))
+    war_subtype = Column(Text)
+    type_description = Column(Text)
+
+
 class War(Base):
     __tablename__ = "war"
 
@@ -41,6 +50,8 @@ class War(Base):
     subtype_name = Column(Text)
     is_intervention = Column(Boolean)
     is_international = Column(Boolean)
+
+    __table_args__ = (ForeignKeyConstraint(["type_code"], ["war_type.type_code"]),)
 
 
 class War_Locations(Base):
