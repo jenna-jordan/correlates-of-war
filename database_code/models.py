@@ -38,6 +38,7 @@ class War_Type(Base):
     war_category = Column(String(11))
     war_subtype = Column(Text)
     type_description = Column(Text)
+    last_updated = Column(Date)
 
 
 class War(Base):
@@ -74,7 +75,7 @@ class War_Participants(Base):
     end_date_prec = Column(Text)
     side = Column(String(1))
     is_initiator = Column(Boolean)
-    outcome_code = Column(Integer(1))
+    outcome = Column(Text)
     deaths = Column(Integer)
 
     __table_args__ = (

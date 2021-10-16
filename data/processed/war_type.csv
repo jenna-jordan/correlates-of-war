@@ -1,10 +1,10 @@
-type_code,war_category,war_subtype,type_description
-1,Inter-State,Inter-State,Inter-state wars are wars that take place between or among states (members of the interstate system)
-2,Extra-State,Colonial War,"A colonial extra-state war occurs if the adversary is a “colony, dependency, or protectorate.” In other words, these “colonial wars” tend to occur when a colony rebels and tries to become independent."
-3,Extra-State,Imperial War,"In imperial wars the system member fights an adversary that is, “an independent political entity that did not qualify for system membership because of serious limitations on its independence, a population insufficiency, or a failure of other states to recognize it as a legitimate member.”"
-4,Intra-State,Civil war for central control,Civil wars involving the government of the state against a non-state entity; for control of the central government
-5,Intra-State,Civil war over local issues,Civil wars involving the government of the state against a non-state entity; involving disputes over local issues
-6,Intra-State,Regional internal,Regional internal wars involve the government of a regional subunit against a non-state entity
-7,Intra-State,Intercommunal,Intercommunal wars involve combat between/among two or more non-state entities within the state
-8,Non-State,occur in non-state territory,Wars between or among non-state entities that take place in non-state territory
-9,Non-State,occur across state borders,Wars between non-state armed groups that take place across state borders
+type_code,war_category,war_subtype,type_description,last_updated
+1,Inter-State,Inter-State,Inter-state wars are wars that take place between or among states (members of the interstate system),2007-12-31
+2,Extra-State,Colonial War,"A colonial extra-state war occurs if the adversary is a “colony, dependency, or protectorate.” In other words, these “colonial wars” tend to occur when a colony rebels and tries to become independent.",2007-12-31
+3,Extra-State,Imperial War,"In imperial wars the system member fights an adversary that is, “an independent political entity that did not qualify for system membership because of serious limitations on its independence, a population insufficiency, or a failure of other states to recognize it as a legitimate member.”",2007-12-31
+4,Intra-State,Civil war for central control,Civil wars involving the government of the state against a non-state entity; for control of the central government,2014-12-31
+5,Intra-State,Civil war over local issues,Civil wars involving the government of the state against a non-state entity; involving disputes over local issues,2014-12-31
+6,Intra-State,Regional internal,Regional internal wars involve the government of a regional subunit against a non-state entity,2014-12-31
+7,Intra-State,Intercommunal,Intercommunal wars involve combat between/among two or more non-state entities within the state,2014-12-31
+8,Non-State,occur in non-state territory,Wars between or among non-state entities that take place in non-state territory,2007-12-31
+9,Non-State,occur across state borders,Wars between non-state armed groups that take place across state borders,2007-12-31
