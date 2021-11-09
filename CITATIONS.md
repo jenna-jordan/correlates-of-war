@@ -8,4 +8,6 @@ Singer, J. David, Stuart Bremer, and John Stuckey. (1972). "Capability Distribut
 
 Singer, J. David. 1987. "Reconstructing the Correlates of War Dataset on Material Capabilities of States, 1816-1985" International Interactions, 14: 115-32.
 
+Tir, Jaroslav, Philip Schafer, Paul Diehl, and Gary Goertz. 1998. "Territorial Changes, 1816-1996: Procedures and Data "Conflict Management and Peace Science 16:89-97.
+
 # Documentation Citations

@@ -97,3 +97,17 @@ All datasets were downloaded from the [Correlates of War website](https://correl
     - Downloaded on: `2021-07-17`
     - Data Filename(s): `NMC_5_0.csv`, `NMC_5_0-wsupplementary.csv`
     - Documentation Filename(s): `NMC_Documentation_v5_0.pdf`
+
+- Territorial Change (v6)
+    - Downloaded from: `https://correlatesofwar.org/data-sets/territorial-change`
+    - Downloaded on: `2021-11-08`
+    - Data Filename(s): `tc2018.csv`, `Entities.pdf` -> `tc_entities.csv`
+        - `Entities.pdf` is a PDF that contains tables. I used Tabula to transform this into the CSV file `tc_entities.csv`
+    - Documentation Filename(s): `tcmanual.pdf`
+
+- Colonial/Dependency Contiguity (v3.1)
+    - Downloaded from: `https://correlatesofwar.org/data-sets/colonial-dependency-contiguity`
+    - Downloaded on: `2021-11-08`
+    - Data Filename(s): `contcols.csv`, `contcold.csv`, `contcol.csv`
+        - `Entities.pdf` was also included in this dataset, and looks to be the same file as in the Territorial Change dataset. However, as the last modified date for this file was in 2003, I'm choosing to use the Territorial Change Entities file (last modified in 2019) to put through Tabula.
+    - Documentation Filename(s): `Colonial Contiguity Codebook.pdf`

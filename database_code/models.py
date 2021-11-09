@@ -15,7 +15,7 @@ Base = declarative_base()
 class Polity(Base):
     __tablename__ = "polity"
 
-    id = Column(Integer(5), primary_key=True)
+    id = Column(String(5), primary_key=True)
     name = Column(Text)
     type = Column(Text)
     abbr = Column(String(3))
@@ -24,7 +24,7 @@ class Polity(Base):
 class Polity_Dates(Base):
     __tablename__ = "polity_dates"
 
-    polity = Column(Integer(5), primary_key=True)
+    polity = Column(String(5), primary_key=True)
     start_date = Column(Date, primary_key=True)
     end_date = Column(Date)
 
@@ -64,11 +64,21 @@ class War_Locations(Base):
     __table_args__ = (ForeignKeyConstraint(["war"], ["war.id"]),)
 
 
+class War_Sides(Base):
+    __tablename__ = "war_sides"
+
+    war = Column(String(5), primary_key=True)
+    side = Column(String(1), primary_key=True)
+    deaths = Column(Integer)
+    peak_total_forces = Column(Integer)
+    peak_theater_forces = Column(Integer)
+
+
 class War_Participants(Base):
     __tablename__ = "war_participants"
 
     war = Column(String(5), primary_key=True)
-    polity = Column(Integer(5), primary_key=True)
+    polity = Column(String(5), primary_key=True)
     start_date = Column(Date, primary_key=True)
     start_date_prec = Column(Text)
     end_date = Column(Date)
@@ -76,11 +86,11 @@ class War_Participants(Base):
     side = Column(String(1))
     is_initiator = Column(Boolean)
     outcome = Column(Text)
-    deaths = Column(Integer)
 
     __table_args__ = (
         ForeignKeyConstraint(["war"], ["war.id"]),
         ForeignKeyConstraint(["polity"], ["polity.id"]),
+        ForeignKeyConstraint(["war", "side"], ["war_sides.war", "war_sides.side"]),
     )
 
 
@@ -99,7 +109,7 @@ class War_Transitions(Base):
 class Resources(Base):
     __tablename__ = "resources"
 
-    polity = Column(Integer(5), primary_key=True)
+    polity = Column(String(5), primary_key=True)
     year = Column(Integer(4), primary_key=True)
     resource = Column(String(10), primary_key=True)
     amount = Column(Integer)
